@@ -1,0 +1,2684 @@
+Admission Tickets	U+1F39F
+Aerial Tramway	U+1F6A1
+Cable Car	U+1F6A1
+Ropeway	U+1F6A1
+Gondola	U+1F6A1
+Airplane	U+2708
+Plane	U+2708
+Aeroplane	U+2708
+Flight	U+2708
+Flying	U+2708
+Alarm Clock	U+23F0
+Clock	U+23F0
+Alarm	U+23F0
+Alembic	U+2697
+Alien Monster	U+1F47E
+Space Invader	U+1F47E
+Video Game Monster	U+1F47E
+Ambulance	U+1F691
+American Football	U+1F3C8
+Football	U+1F3C8
+Gridiron	U+1F3C8
+Superbowl	U+1F3C8
+Amphora	U+1F3FA
+Jar	U+1F3FA
+Vase	U+1F3FA
+Anchor	U+2693
+Fisherman	U+2693
+Admiralty Pattern Anchor	U+2693
+Anger Symbol	U+1F4A2
+Anger Sign	U+1F4A2
+Punch	U+1F4A2
+Angry Face	U+1F620
+Angry	U+1F620
+Grumpy Face	U+1F620
+Anguished Face	U+1F627
+Pained Face	U+1F627
+Ant	U+1F41C
+Black Ant	U+1F41C
+Bullant	U+1F41C
+Antenna With Bars	U+1F4F6
+Reception Bars	U+1F4F6
+Signal Strength	U+1F4F6
+Stairs	U+1F4F6
+Anticlockwise Downwards and Upwards Open Circle Arrows	U+1F504
+Refresh Icon	U+1F504
+Reverse Arrows	U+1F504
+Aquarius	U+2652
+Aries	U+2648
+Arrow Pointing Rightwards Then Curving Downwards	U+2935
+Curved Down Arrow	U+2935
+Arrow Pointing Rightwards Then Curving Upwards	U+2934
+Articulated Lorry	U+1F69B
+Truck	U+1F69B
+Green Truck	U+1F69B
+Artist Palette	U+1F3A8
+Painting	U+1F3A8
+Art	U+1F3A8
+Astonished Face	U+1F632
+Shocked Face	U+1F632
+Gasping Face	U+1F632
+Drunk Face	U+1F632
+Athletic Shoe	U+1F45F
+Sneaker	U+1F45F
+Runner	U+1F45F
+Trainer	U+1F45F
+Atom Symbol	U+269B
+Aubergine	U+1F346
+Eggplant	U+1F346
+Purple Vegetable	U+1F346
+Automobile	U+1F697
+Red Car	U+1F697
+Side Of Car	U+1F697
+Avocado	U+1F951
+Baby Angel	U+1F47C
+Angel	U+1F47C
+Cherub	U+1F47C
+Putto	U+1F47C
+Cupid	U+1F47C
+Baby Bottle	U+1F37C
+Bottle Feeding	U+1F37C
+Baby Chick	U+1F424
+Yellow Bird	U+1F424
+Baby Symbol	U+1F6BC
+Baby Change Symbol	U+1F6BC
+Baby Change Station	U+1F6BC
+Nursery	U+1F6BC
+Baby	U+1F476
+Toddler	U+1F476
+Child	U+1F476
+Back With Leftwards Arrow Above	U+1F519
+Back	U+1F519
+Bacon	U+1F953
+Bactrian Camel	U+1F42B
+Camel	U+1F42B
+Two Bump Camel	U+1F42B
+Double Bump Camel	U+1F42B
+Asian Camel	U+1F42B
+Chinese Camel	U+1F42B
+Badminton Racquet and Shuttlecock	U+1F3F8
+Baggage Claim	U+1F6C4
+Baguette Bread	U+1F956
+Balloon	U+1F388
+Red Balloon	U+1F388
+Party	U+1F388
+Ballot Box With Check	U+2611
+Ballot Box With Tick	U+2611
+Banana	U+1F34C
+Plantain	U+1F34C
+Bank	U+1F3E6
+Bank Branch	U+1F3E6
+BK	U+1F3E6
+Banknote With Dollar Sign	U+1F4B5
+Dollar Bill	U+1F4B5
+American Dollar	U+1F4B5
+1 Note	U+1F4B5
+Banknote With Euro Sign	U+1F4B6
+100 Note	U+1F4B6
+Euro	U+1F4B6
+Banknote With Pound Sign	U+1F4B7
+20 Note	U+1F4B7
+Twenty Quid Note	U+1F4B7
+Pound Note	U+1F4B7
+Banknote With Yen Sign	U+1F4B4
+Yen Note	U+1F4B4
+1000 Note	U+1F4B4
+Bar Chart	U+1F4CA
+Barber Pole	U+1F488
+Barbers Stripes	U+1F488
+Barber Shop	U+1F488
+Hairdresser	U+1F488
+Baseball	U+26BE
+Softball	U+26BE
+Basketball and Hoop	U+1F3C0
+Orange Ball	U+1F3C0
+Basketball	U+1F3C0
+Bat	U+1F987
+Black Bat	U+1F987
+Batman	U+1F987
+Bath	U+1F6C0
+Bathing	U+1F6C0
+Person in Bath	U+1F6C0
+Hot Bath	U+1F6C0
+Bathtub	U+1F6C1
+Empty Bathtub	U+1F6C1
+Bath	U+1F6C1
+Battery	U+1F50B
+Phone Battery	U+1F50B
+AA Battery	U+1F50B
+Beach With Umbrella	U+1F3D6
+Bear Face	U+1F43B
+Teddy Bear	U+1F43B
+Cute Bear	U+1F43B
+Beating Heart	U+1F493
+Heartbeat	U+1F493
+Butterflies In Stomach	U+1F493
+Heart Alarm	U+1F493
+Bed	U+1F6CF
+Bedroom	U+1F6CF
+Beer Mug	U+1F37A
+Beer Stein	U+1F37A
+Lager	U+1F37A
+Bell With Cancellation Stroke	U+1F515
+Ringer Disabled	U+1F515
+Notifications	U+1F515
+Bell	U+1F514
+Ringer	U+1F514
+Notifications Enabled	U+1F514
+Wedding Bell	U+1F514
+Bellhop Bell	U+1F6CE
+Bento Box	U+1F371
+Lunch Box	U+1F371
+Bicycle	U+1F6B2
+Bike	U+1F6B2
+Push Bike	U+1F6B2
+Bicyclist	U+1F6B4
+Bike	U+1F6B4
+Bicycle	U+1F6B4
+Person On Bike	U+1F6B4
+Cyclist	U+1F6B4
+Bikini	U+1F459
+Swimsuit	U+1F459
+Bathers	U+1F459
+Billiards	U+1F3B1
+8 Ball	U+1F3B1
+Pool	U+1F3B1
+Cue Ball	U+1F3B1
+Snooker	U+1F3B1
+Magic 8 Ball	U+1F3B1
+Biohazard Sign	U+2623
+Bird	U+1F426
+Birthday Cake	U+1F382
+Cake With Candles	U+1F382
+Cake	U+1F382
+Birthday	U+1F382
+Black Circle for Record	U+23FA
+Black Club Suit	U+2663
+Clubs	U+2663
+Black Diamond Suit	U+2666
+Diamonds	U+2666
+Black Down-Pointing Double Triangle	U+23EC
+Black Heart Suit	U+2665
+Hearts	U+2665
+Card With Heart	U+2665
+Black Heart	U+1F5A4
+Dark Heart	U+1F5A4
+Black Large Square	U+2B1B
+Black Left-Pointing Double Triangle With Vertical Bar	U+23EE
+Black Left-Pointing Double Triangle	U+23EA
+Rewind	U+23EA
+Black Left-Pointing Triangle	U+25C0
+Left Triangle	U+25C0
+Black Medium Small Square	U+25FE
+Black Medium Square	U+25FC
+Black Nib	U+2712
+Fountain Pen	U+2712
+Pen Nib	U+2712
+Black Question Mark Ornament	U+2753
+Black Right-Pointing Double Triangle With Vertical Bar	U+23ED
+Black Right-Pointing Double Triangle	U+23E9
+Fast Forward	U+23E9
+Black Right-Pointing Triangle With Double Vertical Bar	U+23EF
+Black Right-Pointing Triangle	U+25B6
+Play Button	U+25B6
+Right Triangle	U+25B6
+Black Rightwards Arrow	U+27A1
+Right Arrow	U+27A1
+Arrow Pointing Right	U+27A1
+Black Scissors	U+2702
+Cutting	U+2702
+Black Small Square	U+25AA
+Black Spade Suit	U+2660
+Spades	U+2660
+Black Square Button	U+1F532
+Black Square for Stop	U+23F9
+Black Sun With Rays	U+2600
+Sun	U+2600
+Sunshine	U+2600
+Black Telephone	U+260E
+Telephone	U+260E
+Rotary Phone	U+260E
+Black Up-Pointing Double Triangle	U+23EB
+Blossom	U+1F33C
+Yellow Flower	U+1F33C
+Blossoming Flower	U+1F33C
+Blowfish	U+1F421
+Pufferfish	U+1F421
+Tetraodontidae	U+1F421
+Toadfish	U+1F421
+Fugu	U+1F421
+Blue Book	U+1F4D8
+Blue Heart	U+1F499
+Boar	U+1F417
+Wild Boar	U+1F417
+Wild Pig	U+1F417
+Bomb	U+1F4A3
+Bookmark Tabs	U+1F4D1
+Bookmark	U+1F516
+Tag	U+1F516
+Price Tag	U+1F516
+Books	U+1F4DA
+Pile Of Books	U+1F4DA
+Stack Of Books	U+1F4DA
+Bottle With Popping Cork	U+1F37E
+Champagne	U+1F37E
+Sparkling Wine	U+1F37E
+Celebration	U+1F37E
+Bouquet	U+1F490
+Bouquet Of Flowers	U+1F490
+Bow and Arrow	U+1F3F9
+Archery	U+1F3F9
+Bowling	U+1F3B3
+Ten Pin Bowling	U+1F3B3
+Skittles	U+1F3B3
+Pins	U+1F3B3
+Bowling Ball	U+1F3B3
+Boy	U+1F466
+Bread	U+1F35E
+Loaf Of Bread	U+1F35E
+Bride With Veil	U+1F470
+Wedding	U+1F470
+Marriage	U+1F470
+Bridge at Night	U+1F309
+Golden Gate Bridge	U+1F309
+Bridge	U+1F309
+Briefcase	U+1F4BC
+Suitcase	U+1F4BC
+Broken Heart	U+1F494
+Breaking Heart	U+1F494
+Heart Broken	U+1F494
+Brokenhearted	U+1F494
+Bug	U+1F41B
+Caterpillar	U+1F41B
+Centipede	U+1F41B
+Building Construction	U+1F3D7
+Burrito	U+1F32F
+Wrap	U+1F32F
+Bus Stop	U+1F68F
+Pepsi	U+1F68F
+Bus	U+1F68C
+School Bus	U+1F68C
+Bust in Silhouette	U+1F464
+User	U+1F464
+Silhouette	U+1F464
+Shadow	U+1F464
+Busts in Silhouette	U+1F465
+Users	U+1F465
+Silhouettes	U+1F465
+Shadows	U+1F465
+Butterfly	U+1F98B
+Cactus	U+1F335
+Desert	U+1F335
+Wild West	U+1F335
+Calendar	U+1F4C5
+July 17	U+1F4C5
+World Emoji Day	U+1F4C5
+Call Me Hand	U+1F919
+Phone Hand	U+1F919
+Shaka	U+1F919
+Camera With Flash	U+1F4F8
+Camera	U+1F4F7
+Digital Camera	U+1F4F7
+Camping	U+1F3D5
+Campsite	U+1F3D5
+Cancer	U+264B
+Candle	U+1F56F
+Candy	U+1F36C
+Sweet	U+1F36C
+Lolly	U+1F36C
+Capricorn	U+2651
+Card Index Dividers	U+1F5C2
+Card Index	U+1F4C7
+Index Card	U+1F4C7
+System Card	U+1F4C7
+Rolodex	U+1F4C7
+Carousel Horse	U+1F3A0
+Merry Go Round	U+1F3A0
+Fairground	U+1F3A0
+Carnival	U+1F3A0
+Carrot	U+1F955
+Cat Face With Tears of Joy	U+1F639
+Happy Tears Cat	U+1F639
+Laughing Cat	U+1F639
+Cat Face With Wry Smile	U+1F63C
+Smirking Cat	U+1F63C
+Cat Face	U+1F431
+Kitten	U+1F431
+3	U+1F431
+Kitty	U+1F431
+Cat	U+1F408
+Feline	U+1F408
+Housecat	U+1F408
+Domestic Cat	U+1F408
+Cheering Megaphone	U+1F4E3
+Megaphone	U+1F4E3
+Cheese Wedge	U+1F9C0
+Cheese	U+1F9C0
+Chequered Flag	U+1F3C1
+Checkered Flag	U+1F3C1
+Racing Flag	U+1F3C1
+Grid Girl	U+1F3C1
+Cherries	U+1F352
+Cherry	U+1F352
+Wild Cherry	U+1F352
+Cherry Blossom	U+1F338
+Pink Flower	U+1F338
+Sakura	U+1F338
+Chestnut	U+1F330
+Nut	U+1F330
+Acorn	U+1F330
+Chicken	U+1F414
+Hen	U+1F414
+Turkey	U+1F414
+Children Crossing	U+1F6B8
+School Crossing	U+1F6B8
+Kids Crossing	U+1F6B8
+Chipmunk	U+1F43F
+Squirrel	U+1F43F
+Chocolate Bar	U+1F36B
+Block Of Chocolate	U+1F36B
+Christmas Tree	U+1F384
+Christmas	U+1F384
+Xmas Tree	U+1F384
+Church	U+26EA
+Church Building	U+26EA
+Cross	U+26EA
+Cinema	U+1F3A6
+Movies	U+1F3A6
+Cinema Screen	U+1F3A6
+Circled Ideograph Advantage	U+1F250
+得	U+1F250
+Acquire	U+1F250
+Circled Latin Capital Letter M	U+24C2
+Metro	U+24C2
+Circled M	U+24C2
+Circus Tent	U+1F3AA
+Circus	U+1F3AA
+Big Top	U+1F3AA
+Cityscape at Dusk	U+1F306
+Dusk City	U+1F306
+Orange Sky City	U+1F306
+Cityscape	U+1F3D9
+Clapper Board	U+1F3AC
+Clapboard	U+1F3AC
+Film Slate	U+1F3AC
+Director	U+1F3AC
+Clapping Hands Sign	U+1F44F
+Applause	U+1F44F
+Clapping	U+1F44F
+Clap	U+1F44F
+Round Of Applause	U+1F44F
+Golf Clap	U+1F44F
+Classical Building	U+1F3DB
+Clinking Beer Mugs	U+1F37B
+Cheers	U+1F37B
+Beers	U+1F37B
+Clinking Glasses	U+1F942
+Champagne Glasses	U+1F942
+Cheers	U+1F942
+Celebration	U+1F942
+Clipboard	U+1F4CB
+Clock Face Eight O'Clock	U+1F557
+Clock Face Eleven O'Clock	U+1F55A
+Clock Face Five O'Clock	U+1F554
+Clock Face Five-Thirty	U+1F560
+Clock Face Four O'Clock	U+1F553
+Clock Face Four-Thirty	U+1F55F
+Clock Face Nine O'Clock	U+1F558
+Clock Face One O'Clock	U+1F550
+Clock Face One-Thirty	U+1F55C
+Clock Face Seven O'Clock	U+1F556
+Clock Face Six O'Clock	U+1F555
+Clock Face Six-Thirty	U+1F561
+Clock Face Ten O'Clock	U+1F559
+Clock Face Ten-Thirty	U+1F565
+Clock Face Three O'Clock	U+1F552
+Clock Face Three-Thirty	U+1F55E
+Clock Face Twelve O'Clock	U+1F55B
+Clock Face Two O'Clock	U+1F551
+Clock Face Two-Thirty	U+1F55D
+Clockwise Downwards and Upwards Open Circle Arrows	U+1F503
+Clockwise Rightwards and Leftwards Open Circle Arrows With Circled One Overlay	U+1F502
+Loop Once Symbol	U+1F502
+Circle Arrows With Number 1	U+1F502
+Clockwise Rightwards and Leftwards Open Circle Arrows	U+1F501
+Loop Symbol	U+1F501
+Closed Book	U+1F4D5
+Red Book	U+1F4D5
+Closed Lock With Key	U+1F510
+Lock And Key	U+1F510
+Closed Mailbox With Lowered Flag	U+1F4EA
+Closed Mailbox With Raised Flag	U+1F4EB
+Closed Umbrella	U+1F302
+Pink Umbrella	U+1F302
+Collapsed Umbrella	U+1F302
+Cloud With Lightning	U+1F329
+Cloud With Rain	U+1F327
+Cloud With Snow	U+1F328
+Cloud With Tornado	U+1F32A
+Cloud	U+2601
+Cloudy	U+2601
+Overcast	U+2601
+Clown Face	U+1F921
+Scary Clown	U+1F921
+Cocktail Glass	U+1F378
+Cocktail	U+1F378
+Martini	U+1F378
+Martini Glass	U+1F378
+Coffin	U+26B0
+Funeral	U+26B0
+Casket	U+26B0
+Collision Symbol	U+1F4A5
+Red Spark	U+1F4A5
+Impact	U+1F4A5
+Explode	U+1F4A5
+Bang	U+1F4A5
+Comet	U+2604
+Light Beam	U+2604
+Blue Beam	U+2604
+Confetti Ball	U+1F38A
+Confetti	U+1F38A
+Confounded Face	U+1F616
+Quivering Mouth	U+1F616
+Scrunched Face	U+1F616
+Confused Face	U+1F615
+Nonplussed	U+1F615
+Puzzled	U+1F615
+S	U+1F615
+Construction Sign	U+1F6A7
+Roadwork	U+1F6A7
+Roadwork Sign	U+1F6A7
+Black And Yellow Striped Sign	U+1F6A7
+Construction Worker	U+1F477
+Face With Hat	U+1F477
+HardHat	U+1F477
+Builder	U+1F477
+Safety Helmet	U+1F477
+Control Knobs	U+1F39B
+Cooked Rice	U+1F35A
+Bowl Of Rice	U+1F35A
+Steamed Rice	U+1F35A
+Boiled Rice	U+1F35A
+Rice	U+1F35A
+Cookie	U+1F36A
+Chocolate Cookie	U+1F36A
+Biscuit	U+1F36A
+Cooking	U+1F373
+Fried Egg	U+1F373
+Frying Pan	U+1F373
+Breakfast	U+1F373
+Copyright Sign	U+A9
+Couch and Lamp	U+1F6CB
+Couch	U+1F6CB
+Lounge	U+1F6CB
+Couple With Heart	U+1F491
+Loving Couple	U+1F491
+Couple In Love	U+1F491
+Cow Face	U+1F42E
+Cow	U+1F42E
+Happy Cow	U+1F42E
+Cow	U+1F404
+Dairy Cow	U+1F404
+Crab	U+1F980
+Crab Cancer	U+1F980
+Red Crab	U+1F980
+Credit Card	U+1F4B3
+VISA Card	U+1F4B3
+Mastercard	U+1F4B3
+AMEX	U+1F4B3
+Diners Club	U+1F4B3
+Crescent Moon	U+1F319
+Cricket Bat and Ball	U+1F3CF
+Cricket	U+1F3CF
+Crocodile	U+1F40A
+Alligator	U+1F40A
+Croc	U+1F40A
+Croissant	U+1F950
+Cross Mark	U+274C
+Cross	U+274C
+X	U+274C
+Crossed Flags	U+1F38C
+Two Flags	U+1F38C
+Crossed Swords	U+2694
+Crown	U+1F451
+Royal	U+1F451
+King	U+1F451
+Queen	U+1F451
+Crying Cat Face	U+1F63F
+Crying Cat	U+1F63F
+Sad Cat	U+1F63F
+Crying Face	U+1F622
+Crying	U+1F622
+Tear	U+1F622
+Crystal Ball	U+1F52E
+Purple Crystal	U+1F52E
+Fortune Teller	U+1F52E
+Clairvoyant	U+1F52E
+Gypsy	U+1F52E
+Psychic	U+1F52E
+Shew Stone	U+1F52E
+Cucumber	U+1F952
+Pickle	U+1F952
+Gherkin	U+1F952
+Curly Loop	U+27B0
+Curling Loop	U+27B0
+Loop	U+27B0
+Currency Exchange	U+1F4B1
+Curry and Rice	U+1F35B
+Curry	U+1F35B
+Indian Food	U+1F35B
+Custard	U+1F36E
+Creme Caramel	U+1F36E
+Flan	U+1F36E
+Dessert	U+1F36E
+Pudding	U+1F36E
+Customs	U+1F6C3
+Cyclone	U+1F300
+Tornado	U+1F300
+Hurricane	U+1F300
+Spiral	U+1F300
+Swirl	U+1F300
+Dagger Knife	U+1F5E1
+Knife Weapon	U+1F5E1
+Dancer	U+1F483
+Dancing	U+1F483
+Salsa Dancer	U+1F483
+Red Dress Woman	U+1F483
+Dango	U+1F361
+Dessert Stick	U+1F361
+Pink White Green Balls	U+1F361
+Dark Sunglasses	U+1F576
+Dash Symbol	U+1F4A8
+Steam	U+1F4A8
+Wind	U+1F4A8
+Gust of Wind	U+1F4A8
+Fart	U+1F4A8
+Fast	U+1F4A8
+Deciduous Tree	U+1F333
+Rounded Tree	U+1F333
+Delivery Truck	U+1F69A
+Department Store	U+1F3EC
+Shops	U+1F3EC
+Shopping Center	U+1F3EC
+Derelict House Building	U+1F3DA
+Old House	U+1F3DA
+Abandoned House	U+1F3DA
+Desert Island	U+1F3DD
+Desert	U+1F3DC
+Desktop Computer	U+1F5A5
+PC Tower	U+1F5A5
+iMac	U+1F5A5
+Diamond Shape With a Dot Inside	U+1F4A0
+Diamond	U+1F4A0
+Kawaii	U+1F4A0
+Cuteness	U+1F4A0
+Disappointed but Relieved Face	U+1F625
+Eyebrow Sweat	U+1F625
+Disappointed Face	U+1F61E
+Sad	U+1F61E
+Sadface	U+1F61E
+Dizzy Face	U+1F635
+Cross Eyes Face	U+1F635
+Spiral Eyes Face	U+1F635
+Dizzy Symbol	U+1F4AB
+Dizzy	U+1F4AB
+Circle And Star	U+1F4AB
+Do Not Litter Symbol	U+1F6AF
+Dog Face	U+1F436
+Dog	U+1F436
+Puppy	U+1F436
+Dog	U+1F415
+Japanese Akita	U+1F415
+Doge	U+1F415
+Door	U+1F6AA
+Front Door	U+1F6AA
+Doorway	U+1F6AA
+Double Curly Loop	U+27BF
+Voicemail	U+27BF
+Double Curling Loop	U+27BF
+Double Exclamation Mark	U+203C
+Doughnut	U+1F369
+Donut	U+1F369
+Dove of Peace	U+1F54A
+Down-Pointing Red Triangle	U+1F53B
+Down-Pointing Small Red Triangle	U+1F53D
+Down Triangle	U+1F53D
+Downwards Black Arrow	U+2B07
+Down Arrow	U+2B07
+Arrow Pointing Down	U+2B07
+Dragon Face	U+1F432
+Dragon Head	U+1F432
+Dragon	U+1F409
+Dress	U+1F457
+Gown	U+1F457
+Skirt	U+1F457
+Dromedary Camel	U+1F42A
+Camel	U+1F42A
+One Bump Camel	U+1F42A
+Single Bump Camel	U+1F42A
+Arabian Camel	U+1F42A
+Indian Camel	U+1F42A
+Drooling Face	U+1F924
+Drool	U+1F924
+Droplet	U+1F4A7
+Water Drop	U+1F4A7
+Water	U+1F4A7
+Drum With Drumsticks	U+1F93A
+Duck	U+1F986
+DVD	U+1F4C0
+DVD Video	U+1F4C0
+DVD ROM	U+1F4C0
+E-Mail Symbol	U+1F4E7
+Email	U+1F4E7
+Eagle	U+1F985
+Bald Eagle	U+1F985
+Ear of Maize	U+1F33D
+Corn	U+1F33D
+Corn On The Cob	U+1F33D
+Ear of Rice	U+1F33E
+Crop	U+1F33E
+Farming	U+1F33E
+Wheat	U+1F33E
+Ear	U+1F442
+Ears	U+1F442
+Listening	U+1F442
+Hearing	U+1F442
+Earth Globe Americas	U+1F30E
+World	U+1F30E
+Globe	U+1F30E
+Planet	U+1F30E
+Earth	U+1F30E
+Earth Globe Asia-Australia	U+1F30F
+World	U+1F30F
+Globe	U+1F30F
+Planet	U+1F30F
+Earth	U+1F30F
+Earth Globe Europe-Africa	U+1F30D
+World	U+1F30D
+Globe	U+1F30D
+Planet	U+1F30D
+Earth	U+1F30D
+Eight Pointed Black Star	U+2734
+Orange Star	U+2734
+Eight Spoked Asterisk	U+2733
+Eject Symbol	U+23CF
+Electric Light Bulb	U+1F4A1
+Light Bulb	U+1F4A1
+Idea	U+1F4A1
+Electric Plug	U+1F50C
+Power Plug	U+1F50C
+Power Cable	U+1F50C
+AC Adaptor	U+1F50C
+Electric Torch	U+1F526
+Torch	U+1F526
+Flashlight	U+1F526
+Elephant	U+1F418
+End With Leftwards Arrow Above	U+1F51A
+End	U+1F51A
+Envelope With Downwards Arrow Above	U+1F4E9
+Down Arrow Envelope	U+1F4E9
+Insert In Envelope	U+1F4E9
+Envelope	U+2709
+Letter	U+2709
+European Castle	U+1F3F0
+Turrets	U+1F3F0
+Castle	U+1F3F0
+European Post Office	U+1F3E4
+Post Office	U+1F3E4
+Evergreen Tree	U+1F332
+Pine Tree	U+1F332
+Tree	U+1F332
+Exclamation Question Mark	U+2049
+Expressionless Face	U+1F611
+Robot Face	U+1F611
+Face With Straight Mouth	U+1F611
+Extraterrestrial Alien	U+1F47D
+Alien	U+1F47D
+ET	U+1F47D
+Eye	U+1F441
+Single Eye	U+1F441
+Eyeglasses	U+1F453
+Glasses	U+1F453
+Eyes	U+1F440
+Seeing	U+1F440
+Eyesight	U+1F440
+Eyeballs	U+1F440
+Shifty Eyes	U+1F440
+Wide Eyes	U+1F440
+Face Massage	U+1F486
+Massaging	U+1F486
+Head Massage	U+1F486
+Face Palm	U+1F926
+Facepalm	U+1F926
+Hitting Head	U+1F926
+SMH	U+1F926
+Face Savouring Delicious Food	U+1F60B
+Goofy	U+1F60B
+Hungry	U+1F60B
+Face Screaming in Fear	U+1F631
+Home Alone	U+1F631
+Scream	U+1F631
+Screaming Face	U+1F631
+Face Throwing a Kiss	U+1F618
+Blowing Kiss	U+1F618
+Blow A Kiss	U+1F618
+Kissing	U+1F618
+Face With Cold Sweat	U+1F613
+Hard Work	U+1F613
+Sad Sweat Face	U+1F613
+Face With Cowboy Hat	U+1F920
+Cowboy	U+1F920
+Face With Head-Bandage	U+1F915
+Injured	U+1F915
+Bandaged Head	U+1F915
+Clumsy	U+1F915
+Face With Look of Triumph	U+1F624
+Frustrated	U+1F624
+Steaming	U+1F624
+Mad Face	U+1F624
+Airing of Grievances	U+1F624
+Face With Medical Mask	U+1F637
+Surgical Mask	U+1F637
+Sick	U+1F637
+Doctor	U+1F637
+Mask Face	U+1F637
+SARS	U+1F637
+Bird Flu	U+1F637
+Face With No Good Gesture	U+1F645
+No	U+1F645
+X Arms	U+1F645
+No Deal	U+1F645
+Face With OK Gesture	U+1F646
+Ballerina	U+1F646
+Hands On Head	U+1F646
+Face With Open Mouth and Cold Sweat	U+1F630
+Blue Face	U+1F630
+Nervous Face	U+1F630
+Concerned Face	U+1F630
+Face With Open Mouth	U+1F62E
+Open Mouth	U+1F62E
+Face With Rolling Eyes	U+1F644
+Eye Roll	U+1F644
+Face With Stuck-Out Tongue and Tightly-Closed Eyes	U+1F61D
+Tongue Out	U+1F61D
+Face With Stuck-Out Tongue and Winking Eye	U+1F61C
+Crazy	U+1F61C
+Crazy Face	U+1F61C
+Face With Stuck-Out Tongue	U+1F61B
+TongueOut	U+1F61B
+Cheeky	U+1F61B
+Tongue Face	U+1F61B
+Face With Tears of Joy	U+1F602
+Laughing	U+1F602
+Laughing Crying	U+1F602
+Laughing Tears	U+1F602
+LOL	U+1F602
+Face With Thermometer	U+1F912
+Sick	U+1F912
+Ill	U+1F912
+Face Without Mouth	U+1F636
+Silent	U+1F636
+Silence	U+1F636
+Blank Face	U+1F636
+Mouthless	U+1F636
+Fallen Leaf	U+1F342
+Fall Leaves	U+1F342
+Autumn Leaves	U+1F342
+Brown Leaves	U+1F342
+Family	U+1F46A
+Parents With Child	U+1F46A
+Nuclear Family	U+1F46A
+Family With Boy and Girl	U+1F46A
+Father Christmas	U+1F385
+Santa	U+1F385
+Santa Claus	U+1F385
+Christmas	U+1F385
+Fax Machine	U+1F4E0
+Fax	U+1F4E0
+Facsimile	U+1F4E0
+Fearful Face	U+1F628
+Scared	U+1F628
+Surprised	U+1F628
+Fencer	U+1F961
+Ferris Wheel	U+1F3A1
+Observation Wheel	U+1F3A1
+Big Wheel	U+1F3A1
+Fairground	U+1F3A1
+Field Hockey Stick and Ball	U+1F3D1
+Hockey	U+1F3D1
+Field Hockey	U+1F3D1
+Film Frames	U+1F39E
+Film Projector	U+1F4FD
+Fire Engine	U+1F692
+Fire Truck	U+1F692
+Fire Department	U+1F692
+Fire	U+1F525
+Flame	U+1F525
+Hot	U+1F525
+Snapstreak	U+1F525
+Firework Sparkler	U+1F387
+Fireworks	U+1F386
+Firework	U+1F386
+Explosion	U+1F386
+First Quarter Moon Symbol	U+1F313
+First Quarter Moon With Face	U+1F31B
+Fish Cake With Swirl Design	U+1F365
+Fishcake	U+1F365
+Narutomaki	U+1F365
+Pink Swirl	U+1F365
+Fish	U+1F41F
+Freshwater Fish	U+1F41F
+Fishing Pole and Fish	U+1F3A3
+Fishing	U+1F3A3
+Fishing Rod	U+1F3A3
+Fisted Hand Sign	U+1F44A
+Fist Bump	U+1F44A
+Punch	U+1F44A
+Bro Fist  Brofist	U+1F44A
+Flag in Hole	U+26F3
+Golf	U+26F3
+Golf Flag	U+26F3
+Fleur-De-Lis	U+269C
+Flexed Biceps	U+1F4AA
+Strong	U+1F4AA
+Muscle	U+1F4AA
+Flexing Arm Muscles	U+1F4AA
+Feats of Strength	U+1F4AA
+Flower Playing Cards	U+1F3B4
+Hanafuda	U+1F3B4
+Hwatu	U+1F3B4
+Playing Cards	U+1F3B4
+Deck Of Cards	U+1F3B4
+Flushed Face	U+1F633
+Blushing Face	U+1F633
+Embarrassed	U+1F633
+Shame	U+1F633
+Fog	U+1F32B
+Foggy	U+1F301
+Fog	U+1F301
+Foggy City	U+1F301
+Fog Bridge	U+1F301
+Footprints	U+1F463
+Feet	U+1F463
+Footsteps	U+1F463
+Fork and Knife With Plate	U+1F37D
+Fork and Knife	U+1F374
+Knife And Fork	U+1F374
+Cutlery	U+1F374
+Fountain	U+26F2
+Water Fountain	U+26F2
+Water Feature	U+26F2
+Park	U+26F2
+Four Leaf Clover	U+1F340
+Lucky	U+1F340
+Clover	U+1F340
+Ireland	U+1F340
+Fox Face	U+1F98A
+Fox	U+1F98A
+Frame With Picture	U+1F5BC
+Gallery	U+1F5BC
+Picture Frame	U+1F5BC
+Painting	U+1F5BC
+French Fries	U+1F35F
+McDonalds Fries	U+1F35F
+Fries	U+1F35F
+Fried Shrimp	U+1F364
+Shrimp	U+1F364
+Prawn	U+1F364
+Seafood	U+1F364
+Frog Face	U+1F438
+Frog	U+1F438
+Kermit	U+1F438
+Front-Facing Baby Chick	U+1F425
+Baby Chick	U+1F425
+Frowning Face With Open Mouth	U+1F626
+Yawning	U+1F626
+Fuel Pump	U+26FD
+Gas Pump	U+26FD
+Petrol Pump	U+26FD
+Full Moon Symbol	U+1F315
+Full Moon With Face	U+1F31D
+Moonface	U+1F31D
+Smiling Moon	U+1F31D
+Smiley Moon	U+1F31D
+Funeral Urn	U+26B1
+Game Die	U+1F3B2
+Dice	U+1F3B2
+Gem Stone	U+1F48E
+Diamond	U+1F48E
+Gem	U+1F48E
+Gemini	U+264A
+Ghost	U+1F47B
+Halloween	U+1F47B
+Ghoul	U+1F47B
+Girl	U+1F467
+Globe With Meridians	U+1F310
+Planet	U+1F310
+Earth	U+1F310
+WWW	U+1F310
+World Wide Web	U+1F310
+Glowing Star	U+1F31F
+Gold Star	U+1F31F
+Shining Star	U+1F31F
+Exploding Star	U+1F31F
+Goat	U+1F410
+Billy Goat	U+1F410
+Golfer	U+1F3CC
+Golf	U+1F3CC
+Golf Club	U+1F3CC
+Grapes	U+1F347
+Grape	U+1F347
+Green Apple	U+1F34F
+Granny Smith Apple	U+1F34F
+Golden Delicious Apple	U+1F34F
+Grevenstein Apple	U+1F34F
+Green Book	U+1F4D7
+Green Heart	U+1F49A
+Jealous Heart	U+1F49A
+Green Salad	U+1F957
+Grimacing Face	U+1F62C
+Foot In Mouth	U+1F62C
+Eek	U+1F62C
+Nervous	U+1F62C
+Awkward	U+1F62C
+Snapchat Mutual 1 Best Friend	U+1F62C
+Grinning Cat Face With Smiling Eyes	U+1F638
+Grinning Cat	U+1F638
+Happy Cat	U+1F638
+Grinning Face With Smiling Eyes	U+1F601
+Frustrated	U+1F601
+Freezing	U+1F601
+Cold	U+1F601
+Grinning Face	U+1F600
+Smiley Face	U+1F600
+Happy Face	U+1F600
+Growing Heart	U+1F497
+Multiple Heart	U+1F497
+Triple Heart	U+1F497
+Guardsman	U+1F482
+British Guardsman	U+1F482
+Foot Guard	U+1F482
+Guitar	U+1F3B8
+Electric Guitar	U+1F3B8
+Acoustic Guitar	U+1F3B8
+Bass Guitar	U+1F3B8
+Haircut	U+1F487
+Cutting Hair	U+1F487
+Hairdresser	U+1F487
+Hamburger	U+1F354
+Cheeseburger	U+1F354
+Burger	U+1F354
+Hammer and Pick	U+2692
+Hammer and Wrench	U+1F6E0
+Hammer	U+1F528
+Tool	U+1F528
+Claw Hammer	U+1F528
+Handyman	U+1F528
+Hamster Face	U+1F439
+Hamster	U+1F439
+Hand With First And Second Fingers Crossed	U+1F91E
+Fingers Crossed	U+1F91E
+Good Luck	U+1F91E
+Handbag	U+1F45C
+Womens Bag	U+1F45C
+Bag	U+1F45C
+Handshake	U+1F91D
+Shaking Hands	U+1F91D
+Happy Person Raising One Hand	U+1F64B
+Hand Up	U+1F64B
+Answering Question	U+1F64B
+Hatching Chick	U+1F423
+Baby Chicken	U+1F423
+Chick Hatching	U+1F423
+Hear-No-Evil Monkey	U+1F649
+Monkey Covering Ears	U+1F649
+Kikazaru	U+1F649
+Heart Decoration	U+1F49F
+Heart With Arrow	U+1F498
+Cupid Arrow	U+1F498
+Lovestruck	U+1F498
+Heart With Ribbon	U+1F49D
+Chocolate Box	U+1F49D
+Gift Box	U+1F49D
+Gift Heart	U+1F49D
+Heavy Black Heart	U+2764
+Heart	U+2764
+Love Heart	U+2764
+Red Heart	U+2764
+Heavy Check Mark	U+2714
+Heavy Tick Mark	U+2714
+Check	U+2714
+Tick	U+2714
+Heavy Division Sign	U+2797
+Heavy Dollar Sign	U+1F4B2
+Dollar Sign	U+1F4B2
+Dollar	U+1F4B2
+Heavy Exclamation Mark Symbol	U+2757
+Heavy Heart Exclamation Mark Ornament	U+2763
+Heart Above Dot	U+2763
+Heavy Large Circle	U+2B55
+Circle	U+2B55
+Red Circle	U+2B55
+Correct	U+2B55
+Heavy Minus Sign	U+2796
+Heavy Plus Sign	U+2795
+Helicopter	U+1F681
+Helmet With White Cross	U+26D1
+Herb	U+1F33F
+Plant	U+1F33F
+Crop	U+1F33F
+Hibiscus	U+1F33A
+High Brightness Symbol	U+1F506
+Increase Brightness	U+1F506
+High-Heeled Shoe	U+1F460
+High Heels	U+1F460
+Stiletto	U+1F460
+Womens Shoe	U+1F460
+High-Speed Train With Bullet Nose	U+1F685
+Shinkansen	U+1F685
+Bullet Train	U+1F685
+High-Speed Train	U+1F684
+High Voltage Sign	U+26A1
+Lightning Bolt	U+26A1
+Thunderbolt	U+26A1
+Hocho	U+1F52A
+Kitchen Knife	U+1F52A
+Knife	U+1F52A
+Butchers Knife	U+1F52A
+Hole	U+1F573
+Honey Pot	U+1F36F
+Honey	U+1F36F
+Pot	U+1F36F
+Honeybee	U+1F41D
+Bee	U+1F41D
+Bumble Bee	U+1F41D
+Horizontal Traffic Light	U+1F6A5
+Traffic Light	U+1F6A5
+Horse Face	U+1F434
+Horse Head	U+1F434
+Horse Racing	U+1F3C7
+Horse Race	U+1F3C7
+Jockey	U+1F3C7
+Horse	U+1F40E
+Horse Racing	U+1F40E
+Galloping Horse	U+1F40E
+Year Of The Horse	U+1F40E
+Hospital	U+1F3E5
+Red Cross	U+1F3E5
+Medical	U+1F3E5
+Emergency Room	U+1F3E5
+Hot Beverage	U+2615
+Coffee	U+2615
+Tea	U+2615
+Hot Chocolate	U+2615
+Hot Dog	U+1F32D
+Hotdog	U+1F32D
+Sausage	U+1F32D
+Hot Pepper	U+1F336
+Chili Pepper	U+1F336
+Spicy	U+1F336
+Hot Springs	U+2668
+Onsen	U+2668
+Steam	U+2668
+Hotel	U+1F3E8
+H Building	U+1F3E8
+Accommodation	U+1F3E8
+Hourglass With Flowing Sand	U+23F3
+Hourglass	U+231B
+House Building	U+1F3E0
+Home	U+1F3E0
+House Buildings	U+1F3D8
+House With Garden	U+1F3E1
+House And Tree	U+1F3E1
+Hugging Face	U+1F917
+Hug	U+1F917
+Hugging	U+1F917
+Hugs	U+1F917
+Hundred Points Symbol	U+1F4AF
+100	U+1F4AF
+One Hundred	U+1F4AF
+Perfect Score	U+1F4AF
+Keep It 100	U+1F4AF
+Hushed Face	U+1F62F
+Surprise	U+1F62F
+Surprised Face	U+1F62F
+Ice Cream	U+1F368
+Bowl Of Ice Cream	U+1F368
+Dessert	U+1F368
+Ice Hockey Stick and Puck	U+1F3D2
+Ice Hockey	U+1F3D2
+Ice Skate	U+26F8
+Imp	U+1F47F
+Sad Devil	U+1F47F
+Purple Devil	U+1F47F
+Devil	U+1F47F
+Devil Horns	U+1F47F
+Purple Goblin	U+1F47F
+Incoming Envelope	U+1F4E8
+Fast Envelope	U+1F4E8
+Envelope With Lines	U+1F4E8
+Information Desk Person	U+1F481
+Sassy Girl	U+1F481
+Concierge	U+1F481
+Bellhop	U+1F481
+Hair Flick	U+1F481
+Information Source	U+2139
+ℹ Info	U+2139
+ℹ Lowercase I	U+2139
+ℹ Tourist Information	U+2139
+ℹ Help Icon	U+2139
+Input Symbol for Latin Capital Letters	U+1F520
+ABCD	U+1F520
+Uppercase	U+1F520
+Input Symbol for Latin Letters	U+1F524
+ABC	U+1F524
+Letters	U+1F524
+Alphabet	U+1F524
+Input Symbol for Latin Small Letters	U+1F521
+ABCD	U+1F521
+Lowercase	U+1F521
+Input Symbol for Numbers	U+1F522
+1234	U+1F522
+Numbers	U+1F522
+Numeric Input	U+1F522
+Input Symbol for Symbols	U+1F523
+Symbols	U+1F523
+Symbol Input	U+1F523
+Izakaya Lantern	U+1F3EE
+Red Lantern	U+1F3EE
+Japanese Lantern	U+1F3EE
+Asian Lantern	U+1F3EE
+Jack-O-Lantern	U+1F383
+Pumpkin	U+1F383
+Halloween	U+1F383
+Japanese Castle	U+1F3EF
+Fortress	U+1F3EF
+Japanese Dolls	U+1F38E
+Imperial Dolls	U+1F38E
+Hinamatsuri	U+1F38E
+Dolls	U+1F38E
+Japanese Goblin	U+1F47A
+Red Mask	U+1F47A
+Long Nose Face	U+1F47A
+Japanese Ogre	U+1F479
+Scary Face	U+1F479
+Scary	U+1F479
+Red Monster	U+1F479
+Oni	U+1F479
+Japanese Post Office	U+1F3E3
+Japan Post	U+1F3E3
+Japanese Postal Mark	U+1F3E3
+Japanese Symbol for Beginner	U+1F530
+Shield	U+1F530
+Shoshinsha Mark	U+1F530
+Jeans	U+1F456
+Denim	U+1F456
+Trousers	U+1F456
+Pants	U+1F456
+Joystick	U+1F579
+Juggling	U+1F939
+Kaaba	U+1F54B
+Mecca	U+1F54B
+Keyboard	U+2328
+Keycap Ten	U+1F51F
+Number 10	U+1F51F
+Kimono	U+1F458
+Japanese Dress	U+1F458
+Dressing Gown	U+1F458
+Kiss Mark	U+1F48B
+Kissing Lips	U+1F48B
+Kiss	U+1F48F
+Boy And Girl Kissing	U+1F48F
+Man And Woman Kissing	U+1F48F
+Couple Kissing	U+1F48F
+Couple Love	U+1F48F
+Kissing Cat Face With Closed Eyes	U+1F63D
+Kissing Cat	U+1F63D
+Kissing Face With Closed Eyes	U+1F61A
+Kissy Face	U+1F61A
+Kiss Face	U+1F61A
+Kissing Face With Smiling Eyes	U+1F619
+Kissy	U+1F619
+Kiss Face	U+1F619
+Whistling	U+1F619
+Whistle	U+1F619
+Kissing Face	U+1F617
+Kissy Face	U+1F617
+Whistling	U+1F617
+Duck Face	U+1F617
+Koala	U+1F428
+Koala Bear	U+1F428
+Australia	U+1F428
+Drop Bear	U+1F428
+Label	U+1F3F7
+Lady Beetle	U+1F41E
+Lady Bug	U+1F41E
+Ladybug	U+1F41E
+Ladybird	U+1F41E
+Large Blue Circle	U+1F535
+Large Blue Diamond	U+1F537
+Large Orange Diamond	U+1F536
+Large Red Circle	U+1F534
+Last Quarter Moon With Face	U+1F31C
+Latin Cross	U+271D
+Christian Cross	U+271D
+Leaf Fluttering in Wind	U+1F343
+Green Leaves	U+1F343
+Spring	U+1F343
+Ledger	U+1F4D2
+Yellow Book	U+1F4D2
+Spiral Bound Book	U+1F4D2
+Binder	U+1F4D2
+Left-Facing Fist	U+1F91B
+Left Fist Bump	U+1F91B
+Left-Pointing Magnifying Glass	U+1F50D
+Magnifying Glass	U+1F50D
+Magnifier	U+1F50D
+Search Icon	U+1F50D
+Left Right Arrow	U+2194
+Sideways Arrows	U+2194
+Horizontal Arrows	U+2194
+Left Speech Bubble	U+1F5E8
+Leftwards Arrow With Hook	U+21A9
+Email Reply	U+21A9
+Left Curved Arrow	U+21A9
+Leftwards Black Arrow	U+2B05
+Left Arrow	U+2B05
+Arrow Pointing Left	U+2B05
+Lemon	U+1F34B
+Lemonade	U+1F34B
+Yellow Fruit	U+1F34B
+Leo	U+264C
+Leopard	U+1F406
+African Leopard	U+1F406
+Jaguar	U+1F406
+Libra	U+264E
+Light Rail	U+1F688
+Link Symbol	U+1F517
+Hyperlink	U+1F517
+Chain	U+1F517
+Linked Chain	U+1F517
+Linked Paperclips	U+1F587
+Lion Face	U+1F981
+Cute Lion	U+1F981
+Timid Lion	U+1F981
+Lipstick	U+1F484
+Makeup	U+1F484
+Lip Gloss	U+1F484
+Lock With Ink Pen	U+1F50F
+Lock And Pen	U+1F50F
+Lock With Fountain Pen	U+1F50F
+Lock	U+1F512
+Closed Lock	U+1F512
+Padlock	U+1F512
+Lollipop	U+1F36D
+Lollypop	U+1F36D
+Android Lollipop	U+1F36D
+Loudly Crying Face	U+1F62D
+Sad Tears	U+1F62D
+Crying	U+1F62D
+Bawling	U+1F62D
+Sobbing	U+1F62D
+Love Hotel	U+1F3E9
+Love Heart Hotel	U+1F3E9
+Heart Hospital	U+1F3E9
+Love Letter	U+1F48C
+Heart Envelope	U+1F48C
+Love Note	U+1F48C
+Low Brightness Symbol	U+1F505
+Decrease Brightness	U+1F505
+Lying Face	U+1F925
+Pinocchio	U+1F925
+Long Nose	U+1F925
+Liar	U+1F925
+Mahjong Tile Red Dragon	U+1F004
+Mahjong	U+1F004
+Mahjong Tile	U+1F004
+中	U+1F004
+Man and Woman Holding Hands	U+1F46B
+Holding Hands	U+1F46B
+Heterosexual Couple	U+1F46B
+Straight Couple	U+1F46B
+Man Dancing	U+1F57A
+Male Dancer	U+1F57A
+Disco Dancer	U+1F57A
+Man in Business Suit Levitating	U+1F574
+Walt Jabsco	U+1F574
+Hovering Man	U+1F574
+Man In Tuxedo	U+1F935
+Groom	U+1F935
+Man In Suit	U+1F935
+Man With Gua Pi Mao	U+1F472
+Asian Man	U+1F472
+Man With Turban	U+1F473
+Turban	U+1F473
+Arab	U+1F473
+Muslim	U+1F473
+Sikh	U+1F473
+Man	U+1F468
+Male	U+1F468
+Moustache Man	U+1F468
+Mans Shoe	U+1F45E
+Shoe	U+1F45E
+Brown Shoe	U+1F45E
+Mantelpiece Clock	U+1F570
+Maple Leaf	U+1F341
+Maple	U+1F341
+Canada	U+1F341
+Canadian	U+1F341
+Meat on Bone	U+1F356
+Ano Niku	U+1F356
+Manga Meat	U+1F356
+BBQ	U+1F356
+Barbecue	U+1F356
+Medium Black Circle	U+26AB
+Medium White Circle	U+26AA
+Melon	U+1F348
+Cantaloupe Emoiji	U+1F348
+Rockmelon	U+1F348
+Honeydew	U+1F348
+Memo	U+1F4DD
+Memorandum	U+1F4DD
+Note	U+1F4DD
+Pencil And Paper	U+1F4DD
+Menorah With Nine Branches	U+1F54E
+Menorah	U+1F54E
+Chanukiah	U+1F54E
+Candles	U+1F54E
+Candelabrum	U+1F54E
+Mens Symbol	U+1F6B9
+Mens Toilet	U+1F6B9
+Male Restroom	U+1F6B9
+Metro	U+1F687
+Subway	U+1F687
+Train	U+1F687
+Underground	U+1F687
+Microphone	U+1F3A4
+Singing	U+1F3A4
+Karaoke	U+1F3A4
+Microscope	U+1F52C
+Magnify	U+1F52C
+Science	U+1F52C
+Military Medal	U+1F396
+Medal	U+1F396
+Medallion	U+1F396
+Military Decoration	U+1F396
+Milky Way	U+1F30C
+Galaxy	U+1F30C
+Space	U+1F30C
+Stars	U+1F30C
+Night Sky	U+1F30C
+Universe	U+1F30C
+Minibus	U+1F690
+Minivan	U+1F690
+PeopleMover	U+1F690
+Minidisc	U+1F4BD
+Mobile Phone Off	U+1F4F4
+Mobile Phone With Rightwards Arrow at Left	U+1F4F2
+Phone Call	U+1F4F2
+Phone With Arrow	U+1F4F2
+Pointing To Phone	U+1F4F2
+Mobile Phone	U+1F4F1
+iPhone	U+1F4F1
+Cell Phone	U+1F4F1
+Smartphone	U+1F4F1
+Android	U+1F4F1
+Money Bag	U+1F4B0
+Moneybags	U+1F4B0
+Rich	U+1F4B0
+Money-Mouth Face	U+1F911
+Money Face	U+1F911
+Rich	U+1F911
+Dollar Sign Eyes	U+1F911
+Money With Wings	U+1F4B8
+Flying Money	U+1F4B8
+Losing Money	U+1F4B8
+Monkey Face	U+1F435
+Monkey Head	U+1F435
+Monkey	U+1F412
+Cheeky Monkey	U+1F412
+Monorail	U+1F69D
+Moon Viewing Ceremony	U+1F391
+Tsukimi	U+1F391
+Grass	U+1F391
+Dumplings and Moon	U+1F391
+Harvest Moon	U+1F391
+MidAutumn Festival	U+1F391
+Mosque	U+1F54C
+Minaret	U+1F54C
+Domed Roof	U+1F54C
+Mother Christmas	U+1F936
+Mrs Claus	U+1F936
+Motor Scooter	U+1F6F5
+Motor Bike	U+1F6F5
+Motor Cycle	U+1F6F5
+Vespa	U+1F6F5
+Motorway	U+1F6E3
+Interstate	U+1F6E3
+Road	U+1F6E3
+Highway	U+1F6E3
+Mount Fuji	U+1F5FB
+Fujisan	U+1F5FB
+Snowcapped Mountain	U+1F5FB
+Mountain Bicyclist	U+1F6B5
+Person On Bike	U+1F6B5
+Mountain Bike	U+1F6B5
+Mountain Cableway	U+1F6A0
+Mountain Railway	U+1F69E
+Train And Mountain	U+1F69E
+Funicular	U+1F69E
+Mountain	U+26F0
+Mouse Face	U+1F42D
+Mouse	U+1F42D
+Mouse With Whiskers	U+1F42D
+Mouse	U+1F401
+Mice	U+1F401
+Rodent	U+1F401
+Dormouse	U+1F401
+Mouth	U+1F444
+Kissing Lips	U+1F444
+Speaking	U+1F444
+Lips	U+1F444
+Movie Camera	U+1F3A5
+Film Camera	U+1F3A5
+Hollywood	U+1F3A5
+Movie	U+1F3A5
+Moyai	U+1F5FF
+Moyai Statue	U+1F5FF
+Moai	U+1F5FF
+Easter Island	U+1F5FF
+Human Rock Carving	U+1F5FF
+Multiple Musical Notes	U+1F3B6
+Music Notes	U+1F3B6
+Singing	U+1F3B6
+Music	U+1F3B6
+Mushroom	U+1F344
+Toadstool	U+1F344
+Shroom	U+1F344
+Musical Keyboard	U+1F3B9
+Piano	U+1F3B9
+Musical Note	U+1F3B5
+Music Note	U+1F3B5
+Beamed Pair Of Eighth Notes	U+1F3B5
+Beamed Pair Of Quavers	U+1F3B5
+Musical Score	U+1F3BC
+Sheet Music	U+1F3BC
+Treble Clef	U+1F3BC
+Nail Polish	U+1F485
+Manicure	U+1F485
+Beauty	U+1F485
+Nails	U+1F485
+Name Badge	U+1F4DB
+Tofu On Fire	U+1F4DB
+Name Tag	U+1F4DB
+Fire Tag	U+1F4DB
+National Park	U+1F3DE
+Nauseated Face	U+1F922
+Green Face	U+1F922
+Vomit	U+1F922
+Sick	U+1F922
+Necktie	U+1F454
+Shirt And Tie	U+1F454
+Business Shirt	U+1F454
+Tie	U+1F454
+Negative Squared AB	U+1F18E
+Blood Type AB	U+1F18E
+Negative Squared Cross Mark	U+274E
+Cross	U+274E
+X	U+274E
+Negative Squared Latin Capital Letter A	U+1F170
+Blood Type A	U+1F170
+Negative Squared Latin Capital Letter B	U+1F171
+Blood Type B	U+1F171
+Negative Squared Latin Capital Letter O	U+1F17E
+Blood Type O	U+1F17E
+Negative Squared Latin Capital Letter P	U+1F17F
+Nerd Face	U+1F913
+Nerdy	U+1F913
+Neutral Face	U+1F610
+Straight Faced	U+1F610
+Face With Straight Mouth	U+1F610
+New Moon Symbol	U+1F311
+Dark Moon	U+1F311
+Shadow Moon	U+1F311
+Solar Eclipse	U+1F311
+New Moon With Face	U+1F31A
+Dark Moon Face	U+1F31A
+Creepy Moon	U+1F31A
+Molester Moon	U+1F31A
+Newspaper	U+1F4F0
+News	U+1F4F0
+Apple Times	U+1F4F0
+Front Page	U+1F4F0
+Night With Stars	U+1F303
+City At Night	U+1F303
+Starry Night	U+1F303
+No Bicycles	U+1F6B3
+No Bikes Sign	U+1F6B3
+No Entry Sign	U+1F6AB
+No	U+1F6AB
+Red Circle Crossed	U+1F6AB
+Banned	U+1F6AB
+Restriction	U+1F6AB
+No Entry	U+26D4
+No Mobile Phones	U+1F4F5
+No Phones	U+1F4F5
+No Smartphones	U+1F4F5
+No Cell Phones	U+1F4F5
+No One Under Eighteen Symbol	U+1F51E
+No Pedestrians	U+1F6B7
+No People	U+1F6B7
+No Walking	U+1F6B7
+No Smoking Symbol	U+1F6AD
+Non-Potable Water Symbol	U+1F6B1
+No Water	U+1F6B1
+No Drinking Water	U+1F6B1
+North East Arrow	U+2197
+Diagonal UpRight Arrow	U+2197
+North West Arrow	U+2196
+Diagonal UpLeft Arrow	U+2196
+Nose	U+1F443
+Smelling	U+1F443
+Stinky	U+1F443
+Sniffing	U+1F443
+Notebook With Decorative Cover	U+1F4D4
+Notebook	U+1F4D3
+Black And White Book	U+1F4D3
+Nut and Bolt	U+1F529
+Screw	U+1F529
+Bolt	U+1F529
+Octagonal Sign	U+1F6D1
+Stop Sign	U+1F6D1
+Octopus	U+1F419
+Squid	U+1F419
+Oden	U+1F362
+Skewer	U+1F362
+Kebab	U+1F362
+Office Building	U+1F3E2
+HighRise Building	U+1F3E2
+City Building	U+1F3E2
+Oil Drum	U+1F6E2
+OK Hand Sign	U+1F44C
+Okay	U+1F44C
+Perfect	U+1F44C
+Older Man	U+1F474
+Old Man	U+1F474
+Elderly Man	U+1F474
+Grandpa	U+1F474
+Older Woman	U+1F475
+Old Lady	U+1F475
+Elderly Woman	U+1F475
+Grandma	U+1F475
+Nanna	U+1F475
+Om Symbol	U+1F549
+Pranava	U+1F549
+Aumkara	U+1F549
+Omkara	U+1F549
+On With Exclamation Mark With Left Right Arrow Above	U+1F51B
+On	U+1F51B
+Oncoming Automobile	U+1F698
+Front Of Car	U+1F698
+Car Hood	U+1F698
+Car Bonnet	U+1F698
+Oncoming Bus	U+1F68D
+Front Of Bus	U+1F68D
+Oncoming Police Car	U+1F694
+Cop Car	U+1F694
+Front Of Police Car	U+1F694
+Oncoming Taxi	U+1F696
+Taxicab	U+1F696
+Front Of Taxi	U+1F696
+Open Book	U+1F4D6
+Book	U+1F4D6
+Novel	U+1F4D6
+Open File Folder	U+1F4C2
+Open Folder	U+1F4C2
+Open Hands Sign	U+1F450
+Hug	U+1F450
+Jazz Hands	U+1F450
+Open Lock	U+1F513
+Open Padlock	U+1F513
+Unlock	U+1F513
+Open Mailbox With Lowered Flag	U+1F4ED
+Open Mailbox With Raised Flag	U+1F4EC
+Open Mailbox	U+1F4EC
+Ophiuchus	U+26CE
+Optical Disc	U+1F4BF
+CD	U+1F4BF
+Compact Disc	U+1F4BF
+CD ROM	U+1F4BF
+Orange Book	U+1F4D9
+Orthodox Cross	U+2626
+Outbox Tray	U+1F4E4
+Outbox	U+1F4E4
+Owl	U+1F989
+Ox	U+1F402
+Oxen	U+1F402
+Bullock	U+1F402
+Page Facing Up	U+1F4C4
+Printed Page	U+1F4C4
+Page With Curl	U+1F4C3
+Curled Page	U+1F4C3
+Curly Page	U+1F4C3
+Pager	U+1F4DF
+Beeper	U+1F4DF
+Bleeper	U+1F4DF
+Palm Tree	U+1F334
+Tropical Island	U+1F334
+Coconut Tree	U+1F334
+Survivor	U+1F334
+Panda Face	U+1F43C
+Paperclip	U+1F4CE
+Clippy	U+1F4CE
+Part Alternation Mark	U+303D
+McDonalds	U+303D
+M	U+303D
+Party Popper	U+1F389
+Party	U+1F389
+Celebration	U+1F389
+Passport Control	U+1F6C2
+Border Control	U+1F6C2
+Paw Prints	U+1F43E
+Dog Paw Prints	U+1F43E
+Puppy Paw Prints	U+1F43E
+Cat Paw Prints	U+1F43E
+Kitten Paw Prints	U+1F43E
+Peace Symbol	U+262E
+Peace Sign	U+262E
+Peach	U+1F351
+Butt	U+1F351
+Pear	U+1F350
+Pedestrian	U+1F6B6
+Walking	U+1F6B6
+Walker	U+1F6B6
+Pencil	U+270F
+Lead Pencil	U+270F
+Penguin	U+1F427
+Little Penguin	U+1F427
+Cute Penguin	U+1F427
+Socially Awkward Penguin	U+1F427
+Pensive Face	U+1F614
+Pensive	U+1F614
+Sadface	U+1F614
+Sad	U+1F614
+Sorrowful	U+1F614
+Persevering Face	U+1F623
+Scrunched Eyes	U+1F623
+Helpless Face	U+1F623
+Person Bowing Deeply	U+1F647
+Bowing Man	U+1F647
+Dogeza	U+1F647
+Cute Boy	U+1F647
+Massage	U+1F647
+Person Frowning	U+1F64D
+Woman Frowning	U+1F64D
+Sad Person	U+1F64D
+Person Raising Both Hands in Celebration	U+1F64C
+Hallelujah	U+1F64C
+Magic	U+1F64C
+Praise Hands	U+1F64C
+Festivus Miracle	U+1F64C
+Two Hands	U+1F64C
+Person With Ball	U+26F9
+Person With Blond Hair	U+1F471
+Blond Man	U+1F471
+Blond	U+1F471
+Blonde	U+1F471
+Person With Folded Hands	U+1F64F
+Please	U+1F64F
+Thank You	U+1F64F
+Praying Hands	U+1F64F
+High Five	U+1F64F
+Person With Pouting Face	U+1F64E
+Fed Up	U+1F64E
+Blank Look	U+1F64E
+Personal Computer	U+1F4BB
+MacBook	U+1F4BB
+Notebook	U+1F4BB
+Laptop	U+1F4BB
+PC	U+1F4BB
+Pig Face	U+1F437
+Pig Head	U+1F437
+Pig Nose	U+1F43D
+Pig Snout	U+1F43D
+Pig	U+1F416
+Sow	U+1F416
+Pile of Poo	U+1F4A9
+Smiling Poop	U+1F4A9
+Pill	U+1F48A
+Tablet	U+1F48A
+Capsule	U+1F48A
+Drugs	U+1F48A
+Pine Decoration	U+1F38D
+Bamboo	U+1F38D
+Kadomatsu	U+1F38D
+New Year Decoration	U+1F38D
+Pineapple	U+1F34D
+Pisces	U+2653
+Pistol	U+1F52B
+Gun	U+1F52B
+Revolver	U+1F52B
+Place of Worship	U+1F6D0
+Religious Building	U+1F6D0
+Playing Card Black Joker	U+1F0CF
+Joker	U+1F0CF
+Joker Card	U+1F0CF
+Police Car	U+1F693
+Cop Car	U+1F693
+Side Of Police Car	U+1F693
+Police Cars Revolving Light	U+1F6A8
+Siren	U+1F6A8
+Police Siren	U+1F6A8
+Flashing Light	U+1F6A8
+Emergency Light	U+1F6A8
+Police Officer	U+1F46E
+Policeman	U+1F46E
+Police	U+1F46E
+Cop	U+1F46E
+Policewoman	U+1F46E
+Poodle	U+1F429
+Toy Poodle	U+1F429
+Miniature Poodle	U+1F429
+Standard Poodle	U+1F429
+Popcorn	U+1F37F
+Popping Corn	U+1F37F
+Postal Horn	U+1F4EF
+French Horn	U+1F4EF
+Bugle	U+1F4EF
+Postbox	U+1F4EE
+Pot of Food	U+1F372
+Bowl Of Food	U+1F372
+Potable Water Symbol	U+1F6B0
+Potato	U+1F954
+Baked Potato	U+1F954
+Regular Potato	U+1F954
+Pouch	U+1F45D
+Clutch	U+1F45D
+Small Bag	U+1F45D
+Poultry Leg	U+1F357
+Turkey Leg	U+1F357
+Chicken Drumstick	U+1F357
+Pouting Cat Face	U+1F63E
+Grumpy Cat	U+1F63E
+Pouting Face	U+1F621
+Red Face	U+1F621
+Grumpy Face	U+1F621
+Angry Face	U+1F621
+Mad Face	U+1F621
+Prayer Beads	U+1F4FF
+Rosary Beads	U+1F4FF
+Dhikr Beads	U+1F4FF
+Pregnant Woman	U+1F930
+Pregnant Lady	U+1F930
+Pregnancy	U+1F930
+Prince	U+1F934
+Princess	U+1F478
+Blonde Girl	U+1F478
+Girl With Tiara	U+1F478
+Girl With Crown	U+1F478
+Printer	U+1F5A8
+Public Address Loudspeaker	U+1F4E2
+PA System	U+1F4E2
+Announcement	U+1F4E2
+Purple Heart	U+1F49C
+Purse	U+1F45B
+Wallet	U+1F45B
+Pushpin	U+1F4CC
+Thumb Tack	U+1F4CC
+Put Litter in Its Place Symbol	U+1F6AE
+Person With Trash	U+1F6AE
+Put Litter In Trash	U+1F6AE
+Rabbit Face	U+1F430
+Bunny Rabbit	U+1F430
+Easter Bunny	U+1F430
+Bugs Bunny	U+1F430
+Rabbit	U+1F407
+Bunny Rabbit	U+1F407
+Bunny	U+1F407
+Racing Car	U+1F3CE
+F1	U+1F3CE
+Formula One	U+1F3CE
+Racing Motorcycle	U+1F3CD
+Motorbike	U+1F3CD
+Motorcycle	U+1F3CD
+Radio	U+1F4FB
+Digital Radio	U+1F4FB
+Wireless	U+1F4FB
+Radioactive Sign	U+2622
+Railway Car	U+1F683
+Railcar	U+1F683
+Railroad Car	U+1F683
+Railway Wagon	U+1F683
+Railway Carriage	U+1F683
+Railway Track	U+1F6E4
+Rainbow	U+1F308
+Primary Rainbow	U+1F308
+Gay Pride	U+1F308
+Raised Back Of Hand	U+1F91A
+Backhand	U+1F91A
+Raised Fist	U+270A
+Fist Pump	U+270A
+Raised Hand With Fingers Splayed	U+1F590
+Five Hand	U+1F590
+Splayed Hand	U+1F590
+Raised Hand With Part Between Middle and Ring Fingers	U+1F596
+Vulcan Salute	U+1F596
+Spock	U+1F596
+Star Trek	U+1F596
+Raised Hand	U+270B
+High Five	U+270B
+Stop	U+270B
+Ram	U+1F40F
+Camera With Flash	U+1F4F8
+Rat	U+1F400
+Grey Rat	U+1F400
+Rodent	U+1F400
+Recreational Vehicle	U+1F699
+RV	U+1F699
+Campervan	U+1F699
+Motorhome	U+1F699
+Red Apple	U+1F34E
+Red Delicious Apple	U+1F34E
+Empire Apple	U+1F34E
+Gala Apple	U+1F34E
+Regional Indicator Symbol Let­ter E	U+1F1EA
+Regional Indicator Symbol Let­ter G	U+1F1EC
+Regional Indicator Symbol Let­ter I	U+1F1EE
+Regional Indicator Symbol Let­ter J	U+1F1EF
+Regional Indicator Symbol Let­ter L	U+1F1F1
+Regional Indicator Symbol Let­ter N	U+1F1F3
+Regional Indicator Symbol Let­ter O	U+1F1F4
+Regional Indicator Symbol Let­ter P	U+1F1F5
+Regional Indicator Symbol Let­ter Q	U+1F1F6
+Regional Indicator Symbol Let­ter S	U+1F1F8
+Regional Indicator Symbol Let­ter U	U+1F1FA
+Regional Indicator Symbol Let­ter V	U+1F1FB
+Regional Indicator Symbol Let­ter W	U+1F1FC
+Regional Indicator Symbol Let­ter X	U+1F1FD
+Regional Indicator Symbol Let­ter Z	U+1F1FF
+Registered Sign	U+AE
+Relieved Face	U+1F60C
+Pleased	U+1F60C
+Content	U+1F60C
+Reminder Ribbon	U+1F397
+Restroom	U+1F6BB
+Toilet Sign	U+1F6BB
+Bathroom Sign	U+1F6BB
+Reversed Hand With Middle Finger Extended	U+1F595
+Middle Finger	U+1F595
+Rude Finger	U+1F595
+Flipping The Bird	U+1F595
+Dito Medio	U+1F595
+Revolving Hearts	U+1F49E
+Two Hearts	U+1F49E
+Rhinoceros	U+1F98F
+Ribbon	U+1F380
+Bow	U+1F380
+Pink Bow	U+1F380
+Rice Ball	U+1F359
+Nori	U+1F359
+Triangle Rice	U+1F359
+Rice Cracker	U+1F358
+Right Anger Bubble	U+1F5EF
+Zig Zag Bubble	U+1F5EF
+Right-Facing Fist	U+1F91C
+Right Fist Bump	U+1F91C
+Right-Pointing Magnifying Glass	U+1F50E
+Magnifying Glass	U+1F50E
+Magnifier	U+1F50E
+Search Icon	U+1F50E
+Rightwards Arrow With Hook	U+21AA
+Email Forward	U+21AA
+Right Curved Arrow	U+21AA
+Ring	U+1F48D
+Engagement Ring	U+1F48D
+Diamond Ring	U+1F48D
+Roasted Sweet Potato	U+1F360
+Sweet Potato	U+1F360
+Potato	U+1F360
+Yam	U+1F360
+Robot Face	U+1F916
+Robot	U+1F916
+Rocket	U+1F680
+Space Shuttle	U+1F680
+Rocket Ship	U+1F680
+Rolled-Up Newspaper	U+1F5DE
+Newspaper Delivery	U+1F5DE
+Roller Coaster	U+1F3A2
+Rollercoaster	U+1F3A2
+Theme Park	U+1F3A2
+Rolling On The Floor Laughing	U+1F923
+ROFL	U+1F923
+Rooster	U+1F413
+Cock	U+1F413
+Cockerel	U+1F413
+Rose	U+1F339
+Red Flower	U+1F339
+Red Rose	U+1F339
+Rosette	U+1F3F5
+Round Pushpin	U+1F4CD
+Pin	U+1F4CD
+Dropped Pin	U+1F4CD
+Map Pin	U+1F4CD
+Red Pin	U+1F4CD
+Rowboat	U+1F6A3
+Rowing	U+1F6A3
+Boat With Paddles	U+1F6A3
+Rugby Football	U+1F3C9
+Rugby	U+1F3C9
+Union	U+1F3C9
+League	U+1F3C9
+Football	U+1F3C9
+Runner	U+1F3C3
+Run	U+1F3C3
+Jogging	U+1F3C3
+Running Shirt With Sash	U+1F3BD
+Singlet	U+1F3BD
+Running Shirt	U+1F3BD
+Sagittarius	U+2650
+Sake Bottle and Cup	U+1F376
+Bottle	U+1F376
+Rice Wine	U+1F376
+Saxophone	U+1F3B7
+Sax	U+1F3B7
+Jazz	U+1F3B7
+Scales	U+2696
+Scales of Justice	U+2696
+School Satchel	U+1F392
+School Bag	U+1F392
+Backpack	U+1F392
+Bag	U+1F392
+School	U+1F3EB
+Elementary School	U+1F3EB
+Middle School	U+1F3EB
+High School	U+1F3EB
+Clock Tower	U+1F3EB
+Scooter	U+1F6F4
+Scorpion	U+1F982
+Scorpius	U+264F
+Scorpio	U+264F
+Scroll	U+1F4DC
+Degree	U+1F4DC
+Parchment	U+1F4DC
+See-No-Evil Monkey	U+1F648
+Monkey Covering Eyes	U+1F648
+Cheeky Monkey	U+1F648
+Seedling	U+1F331
+Sprout	U+1F331
+Sprouting	U+1F331
+Spring	U+1F331
+Selfie	U+1F933
+Phone Camera	U+1F933
+Selfie Hand	U+1F933
+Shallow Pan Of Food	U+1F958
+Shamrock	U+2618
+Shark	U+1F988
+Jaws	U+1F988
+Shaved Ice	U+1F367
+Snow Cone	U+1F367
+Sheep	U+1F411
+Lamb	U+1F411
+Ewe	U+1F411
+Shibuya	U+E50A
+Boutique 109	U+E50A
+Shibuya 109	U+E50A
+Shibuya 109 Department Store	U+E50A
+Shinto Shrine	U+26E9
+Kaminomichi	U+26E9
+Ship	U+1F6A2
+Cruise	U+1F6A2
+Cruise Ship	U+1F6A2
+Ferry	U+1F6A2
+Shooting Star	U+1F320
+Meteoroid	U+1F320
+When You Wish Upon A Star	U+1F320
+Shopping Bags	U+1F6CD
+Shortcake	U+1F370
+Cake	U+1F370
+Piece Of Cake	U+1F370
+Strawberry Shortcake	U+1F370
+Shower	U+1F6BF
+Shower Head	U+1F6BF
+Shrug	U+1F937
+Shrugging	U+1F937
+ツ	U+1F937
+Sign of the Horns	U+1F918
+Rock On	U+1F918
+Heavy Metal	U+1F918
+Devil Fingers	U+1F918
+Silhouette of Japan	U+1F5FE
+Map Of Japan	U+1F5FE
+Six Pointed Star With Middle Dot	U+1F52F
+Ski and Ski Boot	U+1F3BF
+Skis	U+1F3BF
+Skiing	U+1F3BF
+Skier	U+26F7
+Skull and Crossbones	U+2620
+Skull	U+1F480
+Grey Skull	U+1F480
+Skeleton	U+1F480
+Death	U+1F480
+Sleeping Accommodation	U+1F6CC
+Sleeping Face	U+1F634
+Snoring	U+1F634
+Zzz Face	U+1F634
+Sleep Face	U+1F634
+Sleeping Symbol	U+1F4A4
+Zzz	U+1F4A4
+Sleep	U+1F4A4
+Bedtime	U+1F4A4
+Boring	U+1F4A4
+Sleepy Face	U+1F62A
+SideTear	U+1F62A
+Snot Bubble	U+1F62A
+Sleuth or Spy	U+1F575
+Detective	U+1F575
+Spy	U+1F575
+Sleuth	U+1F575
+Private Eye	U+1F575
+Slice of Pizza	U+1F355
+Pizza	U+1F355
+Pepperoni Pizza	U+1F355
+Slightly Frowning Face	U+1F641
+Slightly Sad	U+1F641
+Slightly Smiling Face	U+1F642
+Slightly Happy	U+1F642
+Slot Machine	U+1F3B0
+Poker Machine	U+1F3B0
+Casino	U+1F3B0
+Gambling	U+1F3B0
+Fruit Machine	U+1F3B0
+Small Airplane	U+1F6E9
+Small Blue Diamond	U+1F539
+Small Orange Diamond	U+1F538
+Smiling Cat Face With Heart-Shaped Eyes	U+1F63B
+Heart Eyes Cat	U+1F63B
+Loving Cat	U+1F63B
+Smiling Cat Face With Open Mouth	U+1F63A
+Smiling Cat	U+1F63A
+Happy Cat	U+1F63A
+Smiling Face With Halo	U+1F607
+Angel	U+1F607
+Halo	U+1F607
+Smiling Face With Heart-Shaped Eyes	U+1F60D
+Heart Eyes	U+1F60D
+Heart Face	U+1F60D
+Smiling Face With Horns	U+1F608
+Happy Devil	U+1F608
+Purple Devil	U+1F608
+Red Devil	U+1F608
+Devil	U+1F608
+Devil Horns	U+1F608
+Smiling Face With Open Mouth and Cold Sweat	U+1F605
+Happy Sweat	U+1F605
+Exercise	U+1F605
+Smiling Face With Open Mouth and Smiling Eyes	U+1F604
+Smiley Face	U+1F604
+Grinning Face	U+1F604
+Happy Face	U+1F604
+Smiling Face With Open Mouth and Tightly-Closed Eyes	U+1F606
+Big Grin	U+1F606
+ClosedEyes Smile	U+1F606
+Smiling Face With Open Mouth	U+1F603
+Happy	U+1F603
+Happy Face	U+1F603
+Smiley Face	U+1F603
+Grinning Face	U+1F603
+Smiling Face With Smiling Eyes	U+1F60A
+Smile	U+1F60A
+Smiley Face	U+1F60A
+Happy Face	U+1F60A
+Smiling Face With Sunglasses	U+1F60E
+Cool	U+1F60E
+Sunglasses	U+1F60E
+Sunnies	U+1F60E
+Snapchat Mutual Best Friends	U+1F60E
+Smirking Face	U+1F60F
+Suggestive Smile	U+1F60F
+Flirting	U+1F60F
+Sexual Face	U+1F60F
+Smug Face	U+1F60F
+Smoking Symbol	U+1F6AC
+Cigarette	U+1F6AC
+Smoke	U+1F6AC
+Snail	U+1F40C
+Garden Snail	U+1F40C
+Slug	U+1F40C
+Snake	U+1F40D
+Green Snake	U+1F40D
+Sneezing Face	U+1F927
+Snow Capped Mountain	U+1F3D4
+Snowboarder	U+1F3C2
+Snowboarding	U+1F3C2
+Snowboard	U+1F3C2
+Snowflake	U+2744
+Snow	U+2744
+Snowing	U+2744
+Snowman Without Snow	U+26C4
+Snowman	U+26C4
+Frosty The Snowman	U+26C4
+Olaf	U+26C4
+Snowman	U+2603
+Snowing Snowman	U+2603
+Soccer Ball	U+26BD
+Soccer	U+26BD
+Football	U+26BD
+Soft Ice Cream	U+1F366
+Soft Serve	U+1F366
+Mr Whippy	U+1F366
+Soon With Rightwards Arrow Above	U+1F51C
+Soon	U+1F51C
+South East Arrow	U+2198
+Diagonal DownRight Arrow	U+2198
+South West Arrow	U+2199
+Diagonal DownLeft Arrow	U+2199
+Spaghetti	U+1F35D
+Spaghetti Bolognese	U+1F35D
+Pasta	U+1F35D
+Sparkle	U+2747
+Sparkles	U+2728
+Stars	U+2728
+Sparkle	U+2728
+Sparkling Heart	U+1F496
+Sparkle Heart	U+1F496
+Sparkly Heart	U+1F496
+Stars Heart	U+1F496
+Speak-No-Evil Monkey	U+1F64A
+Monkey Covering Mouth	U+1F64A
+Iwazaru	U+1F64A
+No Speaking	U+1F64A
+Speaker With Cancellation Stroke	U+1F507
+Mute Volume	U+1F507
+Speaker With One Sound Wave	U+1F509
+Reduce Volume	U+1F509
+Speaker With Three Sound Waves	U+1F50A
+Increase Volume	U+1F50A
+Speaker	U+1F508
+Volume	U+1F508
+Speaking Head in Silhouette	U+1F5E3
+Speech Balloon	U+1F4AC
+Speech Bubble	U+1F4AC
+Chat Bubble	U+1F4AC
+Speedboat	U+1F6A4
+Motorboat	U+1F6A4
+Powerboat	U+1F6A4
+Spider Web	U+1F578
+Cobweb	U+1F578
+Web	U+1F578
+Spider	U+1F577
+FunnelWeb Spider	U+1F577
+Spiral Shell	U+1F41A
+Seashell	U+1F41A
+Shell	U+1F41A
+Beach	U+1F41A
+Splashing Sweat Symbol	U+1F4A6
+Water Drops	U+1F4A6
+Splashing Water	U+1F4A6
+Plewds	U+1F4A6
+Spoon	U+1F944
+Sports Medal	U+1F3C5
+Squared CJK Unified Ideograph-5272	U+1F239
+割	U+1F239
+Bargain Sale	U+1F239
+Squared CJK Unified Ideograph-5408	U+1F234
+合	U+1F234
+Agreement	U+1F234
+Squared CJK Unified Ideograph-55b6	U+1F23A
+営	U+1F23A
+Work	U+1F23A
+Squared CJK Unified Ideograph-6307	U+1F22F
+指	U+1F22F
+Finger Point	U+1F22F
+Squared CJK Unified Ideograph-6708	U+1F237
+月	U+1F237
+Radical 74	U+1F237
+Squared CJK Unified Ideograph-6709	U+1F236
+有	U+1F236
+Own	U+1F236
+Squared CJK Unified Ideograph-6e80	U+1F235
+満	U+1F235
+Full	U+1F235
+Squared CJK Unified Ideograph-7121	U+1F21A
+無	U+1F21A
+Lacking	U+1F21A
+Squared CJK Unified Ideograph-7533	U+1F238
+申	U+1F238
+Request	U+1F238
+Application Form	U+1F238
+Monkey	U+1F238
+Squared CJK Unified Ideograph-7981	U+1F232
+禁	U+1F232
+Forbid	U+1F232
+Squared CJK Unified Ideograph-7a7a	U+1F233
+空	U+1F233
+Empty and Available	U+1F233
+Squared CL	U+1F191
+Clear	U+1F191
+Clear Button	U+1F191
+Squared Cool	U+1F192
+Cool Square	U+1F192
+Squared Free	U+1F193
+Free	U+1F193
+Squared ID	U+1F194
+ID	U+1F194
+Identification	U+1F194
+Squared Katakana Koko	U+1F201
+Here	U+1F201
+Destination	U+1F201
+Squared Katakana Sa	U+1F202
+Squared New	U+1F195
+New	U+1F195
+Squared NG	U+1F196
+NG	U+1F196
+No Good	U+1F196
+Blooper	U+1F196
+Squared OK	U+1F197
+OK	U+1F197
+Okay	U+1F197
+Square	U+1F197
+Squared SOS	U+1F198
+SOS	U+1F198
+Distress Signal	U+1F198
+Emergency	U+1F198
+Squared Up With Exclamation Mark	U+1F199
+Up	U+1F199
+Level Up	U+1F199
+Squared Vs	U+1F19A
+Stadium	U+1F3DF
+Sport Stadium	U+1F3DF
+Grandstand	U+1F3DF
+Star and Crescent	U+262A
+Star of David	U+2721
+Station	U+1F689
+Train Station	U+1F689
+Train Platform	U+1F689
+Statue of Liberty	U+1F5FD
+New York	U+1F5FD
+Steam Locomotive	U+1F682
+Steam Train	U+1F682
+Railway Locomotive	U+1F682
+Steaming Bowl	U+1F35C
+Ramen	U+1F35C
+Noodles	U+1F35C
+Noodles With Chopsticks	U+1F35C
+Stopwatch	U+23F1
+Straight Ruler	U+1F4CF
+Strawberry	U+1F353
+Strawberries	U+1F353
+Studio Microphone	U+1F399
+Stuffed Flatbread	U+1F959
+Shawarma	U+1F959
+Souvlaki	U+1F959
+Doner Kebab	U+1F959
+Sun Behind Cloud	U+26C5
+Sun With Face	U+1F31E
+Smiling Sun	U+1F31E
+Smiley Sun	U+1F31E
+Sunface	U+1F31E
+Sunflower	U+1F33B
+Flower	U+1F33B
+Yellow Flower	U+1F33B
+Sunrise Over Mountains	U+1F304
+Sunrise	U+1F304
+Morning	U+1F304
+Sunrise	U+1F305
+Sunset	U+1F305
+Sunset Over Buildings	U+1F307
+City Sunset	U+1F307
+Surfer	U+1F3C4
+Surfing	U+1F3C4
+Surf	U+1F3C4
+Sushi	U+1F363
+Seafood	U+1F363
+Sashimi	U+1F363
+Suspension Railway	U+1F69F
+Swimmer	U+1F3CA
+Swimming	U+1F3CA
+Freestyle	U+1F3CA
+Synagogue	U+1F54D
+Jewish	U+1F54D
+Synagog	U+1F54D
+Temple	U+1F54D
+Syringe	U+1F489
+Needle	U+1F489
+Blood Test	U+1F489
+Blood Donation	U+1F489
+Vaccination	U+1F489
+T-Shirt	U+1F455
+Polo Shirt	U+1F455
+Tee Shirt	U+1F455
+Table Tennis Paddle and Ball	U+1F3D3
+Ping Pong	U+1F3D3
+Table Tennis	U+1F3D3
+Taco	U+1F32E
+Tanabata Tree	U+1F38B
+Wish Tree	U+1F38B
+Tanabata	U+1F38B
+Tangerine	U+1F34A
+Orange	U+1F34A
+Mandarin	U+1F34A
+Taurus	U+2649
+Taxi	U+1F695
+Taxicab	U+1F695
+New York Taxi	U+1F695
+Side Of Taxi	U+1F695
+Tear-Off Calendar	U+1F4C6
+Day Calendar	U+1F4C6
+Desk Calendar	U+1F4C6
+Telephone Receiver	U+1F4DE
+Phone	U+1F4DE
+Handset	U+1F4DE
+Telescope	U+1F52D
+Stargazing	U+1F52D
+Television	U+1F4FA
+TV	U+1F4FA
+Tennis Racquet and Ball	U+1F3BE
+Tennis	U+1F3BE
+Tennis Ball	U+1F3BE
+Tennis Racket	U+1F3BE
+Tennis Racquet	U+1F3BE
+Tent	U+26FA
+Camping Tent	U+26FA
+Thermometer	U+1F321
+Hot Weather	U+1F321
+Temperature	U+1F321
+Thinking Face	U+1F914
+Thinker	U+1F914
+Thought Balloon	U+1F4AD
+Thought Bubble	U+1F4AD
+Thinking Bubble	U+1F4AD
+Three Button Mouse	U+1F5B1
+Thumbs Down Sign	U+1F44E
+Thumbs Down	U+1F44E
+No	U+1F44E
+Dislike	U+1F44E
+Thumbs Up Sign	U+1F44D
+Thumbs Up	U+1F44D
+Yes	U+1F44D
+Like	U+1F44D
+Thunder Cloud and Rain	U+26C8
+Ticket	U+1F3AB
+Ticket Stub	U+1F3AB
+World Tour TIcket	U+1F3AB
+Tiger Face	U+1F42F
+Cute Tiger	U+1F42F
+Tiger	U+1F405
+Bengal Tiger	U+1F405
+Timer Clock	U+23F2
+Tired Face	U+1F62B
+Exhausted	U+1F62B
+Fed Up	U+1F62B
+Toilet	U+1F6BD
+Restroom	U+1F6BD
+Bathroom	U+1F6BD
+Loo	U+1F6BD
+Tokyo Tower	U+1F5FC
+Red Tower	U+1F5FC
+Eiffel Tower	U+1F5FC
+Tomato	U+1F345
+Tongue	U+1F445
+Tongue Out	U+1F445
+Top Hat	U+1F3A9
+Groom	U+1F3A9
+Formal Wear	U+1F3A9
+Top With Upwards Arrow Above	U+1F51D
+Top	U+1F51D
+Trackball	U+1F5B2
+Tractor	U+1F69C
+Farm	U+1F69C
+Farming	U+1F69C
+Trade Mark Sign	U+2122
+Trademark	U+2122
+TM	U+2122
+Train	U+1F686
+Passenger Train	U+1F686
+Regular Train	U+1F686
+Electric Train	U+1F686
+Diesel Train	U+1F686
+Tram Car	U+1F68B
+Tram	U+1F68A
+Triangular Flag on Post	U+1F6A9
+Red Flag	U+1F6A9
+Flagstick	U+1F6A9
+Triangular Ruler	U+1F4D0
+Triangle Ruler	U+1F4D0
+Trolleybus	U+1F68E
+Trolley Bus	U+1F68E
+Electric Bus	U+1F68E
+Trophy	U+1F3C6
+Winners Trophy	U+1F3C6
+Championship Trophy	U+1F3C6
+Tropical Drink	U+1F379
+Cocktail	U+1F379
+Punch	U+1F379
+Fruit Punch	U+1F379
+Tropical Fish	U+1F420
+Fish	U+1F420
+Yellowblue Fish	U+1F420
+Trumpet	U+1F3BA
+Jazz	U+1F3BA
+Horn	U+1F3BA
+Tulip	U+1F337
+Tumbler Glass	U+1F943
+Whisky Glass	U+1F943
+Turkey	U+1F983
+Thanksgiving Turkey	U+1F983
+Roast Turkey	U+1F983
+Wild Turkey	U+1F983
+Turtle	U+1F422
+Tortoise	U+1F422
+Twisted Rightwards Arrows	U+1F500
+Two Hearts	U+1F495
+Small Hearts	U+1F495
+Two Pink Hearts	U+1F495
+Two Men Holding Hands	U+1F46C
+Gay Men	U+1F46C
+Gay Couple	U+1F46C
+Boys Holding Hands	U+1F46C
+Two Women Holding Hands	U+1F46D
+Lesbian	U+1F46D
+Lesbian Couple	U+1F46D
+Girls Holding Hands	U+1F46D
+Umbrella on Ground	U+26F1
+Umbrella With Rain Drops	U+2614
+Umbrella	U+2614
+Rain	U+2614
+Rainy	U+2614
+Raining	U+2614
+Umbrella	U+2602
+Umbrella	U+2602
+Unamused Face	U+1F612
+Dissatisfied	U+1F612
+Unimpressed	U+1F612
+Unicorn Face	U+1F984
+Unicorn	U+1F984
+Up Down Arrow	U+2195
+Vertical Arrows	U+2195
+Up-Pointing Red Triangle	U+1F53A
+Up-Pointing Small Red Triangle	U+1F53C
+Up Triangle	U+1F53C
+Upside-Down Face	U+1F643
+Silly	U+1F643
+Flipped	U+1F643
+Upwards Black Arrow	U+2B06
+Up Arrow	U+2B06
+Arrow Pointing Up	U+2B06
+Vertical Traffic Light	U+1F6A6
+Traffic Light	U+1F6A6
+Vibration Mode	U+1F4F3
+Silent Mode	U+1F4F3
+Phone Heart	U+1F4F3
+Victory Hand	U+270C
+Peace	U+270C
+V Sign	U+270C
+Peace Sign	U+270C
+Air Quotes	U+270C
+Video Camera	U+1F4F9
+Camcorder	U+1F4F9
+Video Game	U+1F3AE
+Console Controller	U+1F3AE
+Xbox	U+1F3AE
+Playstation	U+1F3AE
+Wii U	U+1F3AE
+Videocassette	U+1F4FC
+Video Tape	U+1F4FC
+VHS	U+1F4FC
+VCR	U+1F4FC
+Violin	U+1F3BB
+String Quartet	U+1F3BB
+Worlds Smallest Violin	U+1F3BB
+Virgo	U+264D
+Volcano	U+1F30B
+Volleyball	U+1F3D0
+Warning Sign	U+26A0
+Alert Sign	U+26A0
+Watch	U+231A
+Wrist Watch	U+231A
+Timepiece	U+231A
+Apple Watch	U+231A
+Water Buffalo	U+1F403
+Buffalo	U+1F403
+Domestic Water Buffalo	U+1F403
+Water Closet	U+1F6BE
+WC	U+1F6BE
+Toilet WC	U+1F6BE
+Water Polo	U+1F93E
+Water Wave	U+1F30A
+Waves	U+1F30A
+Beach	U+1F30A
+Ocean Wave	U+1F30A
+Sea	U+1F30A
+Watermelon	U+1F349
+Waving Black Flag	U+1F3F4
+Waving Hand Sign	U+1F44B
+Hand Wave	U+1F44B
+Waving	U+1F44B
+Hello	U+1F44B
+Goodbye	U+1F44B
+Waving White Flag	U+1F3F3
+Wavy Dash	U+3030
+Wave	U+3030
+Weary Cat Face	U+1F640
+Scared Cat	U+1F640
+Screaming Cat	U+1F640
+Weary Face	U+1F629
+Distraught Face	U+1F629
+Wailing	U+1F629
+Wedding	U+1F492
+Marriage	U+1F492
+Church Wedding	U+1F492
+Church Heart	U+1F492
+Weight Lifter	U+1F3CB
+Weightlifting	U+1F3CB
+Whale	U+1F40B
+Humpback Whale	U+1F40B
+Wheel of Dharma	U+2638
+Wheelchair Symbol	U+267F
+Accessible Bathroom	U+267F
+White Down Pointing Backhand Index	U+1F447
+Pointing Down	U+1F447
+White Exclamation Mark Ornament	U+2755
+White Flower	U+1F4AE
+Cherry Blossom	U+1F4AE
+Well Done Stamp	U+1F4AE
+Paper Doily	U+1F4AE
+White Frowning Face	U+2639
+White Heavy Check Mark	U+2705
+White Heavy Tick Mark	U+2705
+Check	U+2705
+Tick	U+2705
+White Large Square	U+2B1C
+White Left Pointing Backhand Index	U+1F448
+Pointing Left	U+1F448
+White Medium Small Square	U+25FD
+White Medium Square	U+25FB
+White Medium Star	U+2B50
+Star	U+2B50
+Yellow Star	U+2B50
+White Question Mark Ornament	U+2754
+White Right Pointing Backhand Index	U+1F449
+Pointing Right	U+1F449
+White Small Square	U+25AB
+White Smiling Face	U+263A
+Smiling	U+263A
+Smiley Face	U+263A
+Grinning Face	U+263A
+Happy Face	U+263A
+White Square Button	U+1F533
+White Sun Behind Cloud With Rain	U+1F326
+White Sun Behind Cloud	U+1F325
+White Sun With Small Cloud	U+1F324
+White Up Pointing Backhand Index	U+1F446
+Pointing Up	U+1F446
+Middle Finger	U+1F446
+White Up Pointing Index	U+261D
+Pointing Up	U+261D
+Secret	U+261D
+Wilted Flower	U+1F940
+Dead Flower	U+1F940
+Drooping Flower	U+1F940
+Wind Blowing Face	U+1F32C
+Blowing Wind	U+1F32C
+Mother Nature	U+1F32C
+Wind Chime	U+1F390
+Wind Bell	U+1F390
+Furin	U+1F390
+Jellyfish	U+1F390
+Wine Glass	U+1F377
+Wine	U+1F377
+Red Wine	U+1F377
+Alcohol	U+1F377
+Winking Face	U+1F609
+Winky Face	U+1F609
+Wink Face	U+1F609
+Wink	U+1F609
+Wolf Face	U+1F43A
+Dingo	U+1F43A
+Fox	U+1F43A
+Yellow Dog	U+1F43A
+Woman With Bunny Ears	U+1F46F
+Dancing Girls	U+1F46F
+Tap Dance	U+1F46F
+Ballet	U+1F46F
+Showgirls	U+1F46F
+Woman	U+1F469
+Female	U+1F469
+Lady	U+1F469
+Yellow Woman	U+1F469
+Womans Boots	U+1F462
+Knee High Boots	U+1F462
+Cowgirl Boots	U+1F462
+Womans Clothes	U+1F45A
+Blouse	U+1F45A
+Womans Shirt	U+1F45A
+Pink Shirt	U+1F45A
+Womans Hat	U+1F452
+Hat	U+1F452
+Ladies Hat	U+1F452
+Womans Sandal	U+1F461
+Sandals	U+1F461
+Womens Symbol	U+1F6BA
+Womens Toilet	U+1F6BA
+Female Restroom	U+1F6BA
+World Map	U+1F5FA
+Worried Face	U+1F61F
+Sadface	U+1F61F
+Sad	U+1F61F
+Wrapped Present	U+1F381
+Present	U+1F381
+Birthday Present	U+1F381
+Christmas Present	U+1F381
+Gift	U+1F381
+Gift Box	U+1F381
+Wrench	U+1F527
+Spanner	U+1F527
+Writing Hand	U+270D
+Yellow Heart	U+1F49B
+Gold Heart	U+1F49B
+1 BF Snapchat	U+1F49B
+Yin Yang	U+262F
+Zero Width Joiner	U+200D
+Zipper-Mouth Face	U+1F910
+Lips Sealed	U+1F910
+Sealed Lips	U+1F910
+Zip It	U+1F910

@@ -1,0 +1,500 @@
+unity	👬	True
+bread	🍞	True
+moon	🌘	True
+moon	🌕	True
+light brown boy	👦🏼	True
+downhill	🎿	True
+autumn leaves	🍂	True
+smooch	😗	True
+electric bus	🚎	True
+groom	🤵	True
+milk	🐄	True
+horn	🐏	True
+game die	🎲	True
+happy tears cat	😹	True
+sunrise	🌄	True
+electric guitar	🎸	True
+nature	💚	True
+homer	🍩	True
+asia	🌏	True
+flag for réunion	🇷🇪	True
+tiredness	🙀	True
+egg	🍳	True
+wagon	🚙	True
+government	🛃	True
+car	🚙	True
+name badge	📛	True
+cancan	👯	True
+h building	🏨	True
+regional indicator symbol letters st	🇸🇹	True
+easy	💸	True
+compassionate	💜	True
+new	🆕	True
+face without mouth	😶	True
+astrology	♐	True
+instrument	🎷	True
+parchment	📜	True
+expressionless	😑	True
+folklore	👹	True
+respect	🙇	True
+tangerine	🍊	True
+regional indicator symbol letter x	🇽	True
+regional indicator symbol letters tl	🇹🇱	True
+sports	🏂	True
+grimace	😬	True
+lounge	🛋	True
+seedling	🌱	True
+white person frowning	🙍🏻	True
+happy face	😄	True
+lightning bolt	⚡	True
+farming	🚜	True
+lamb	🐑	True
+packing	👝	True
+kissing face with closed eyes	😚	True
+boy	🚹	True
+sad tears	😭	True
+unisex	🚻	True
+troll	👹	True
+automobile	🚖	True
+notebook	💻	True
+thoroughbred	🐎	True
+flower	🌷	True
+spouting whale	🐳	True
+instrument	🎐	True
+raised hand with part between middle and ring fingers	🖖	True
+friendly	😉	True
+singing	🎤	True
+qing	👲	True
+wine glass	🍷	True
+water feature	⛲	True
+dairy	🐃	True
+olive toned face with ok gesture	🙆🏽	True
+congratulations	🎉	True
+hops	🍺	True
+metropolitan	🌆	True
+hourglass with flowing sand	⏳	True
+wine	🍇	True
+camping tent	⛺	True
+bone	🍖	True
+possessive	💚	True
+olive toned white left pointing backhand index	👈🏽	True
+black runner	🏃🏿	True
+ear	👂	True
+stride	🚷	True
+trash	🚮	True
+dress	💃	True
+portland	🍺	True
+dollar sign	💲	True
+outbox	📤	True
+interstate	🛣	True
+regional indicator symbol letters lk	🇱🇰	True
+film slate	🎬	True
+mounted	🐎	True
+entertainment	🎠	True
+regional indicator symbol letters bz	🇧🇿	True
+flag for bulgaria	🇧🇬	True
+lace	🎀	True
+endearment	🐞	True
+tango	💃	True
+eiffel tower	🗼	True
+pork	🐖	True
+night	🌖	True
+taxicab	🚖	True
+hurt	😿	True
+oden	🍢	True
+sprout	🌱	True
+sick	😓	True
+ice	🍦	True
+batman	🦇	True
+stars	♈	True
+light brown flexed biceps	💪🏼	True
+flag for niger	🇳🇪	True
+boys	🎏	True
+float	🎈	True
+thinking face	🤔	True
+inhale	🚬	True
+tongue out	👅	True
+man and woman kissing	💏	True
+heart envelope	💌	True
+astronaut	🚀	True
+regional indicator symbol letters me	🇲🇪	True
+front page	📰	True
+wastebasket	🗑	True
+football	⚽️	True
+olive toned older man	👴🏽	True
+chicken	🐔	True
+regional indicator symbol letters na	🇳🇦	True
+right fist bump	🤜	True
+baggage	🛄	True
+camera with flash	📸	True
+yellow	🌻	True
+regional indicator symbol letters ls	🇱🇸	True
+livid	😠	True
+aquarius	♒	True
+regional indicator symbol letters sz	🇸🇿	True
+globe	🌏	True
+dolphin	🐬	True
+nauseated face	🤢	True
+europe	🌍	True
+pepsi	🚏	True
+water drops	💦	True
+deeper brown face massage	💆🏾	True
+clapping hands sign	👏	True
+sky	🎆	True
+regional indicator symbol letters ms	🇲🇸	True
+comet	🌠	True
+dash	🏃	True
+beach with umbrella	🏖	True
+racing motorcycle	🏍	True
+sleeping	😴	True
+members	👥	True
+hump day	🐫	True
+sightsee	🎒	True
+tassel	🎓	True
+pointing up	☝️	True
+costume	👯	True
+halo	😇	True
+white large square	⬜	True
+white construction worker	👷🏻	True
+slots	🎰	True
+fear	😨	True
+pink	😳	True
+regional indicator symbol letters it	🇮🇹	True
+water drop	💧	True
+silent	😯	True
+plantain	🍌	True
+golf	🏌	True
+clover	🍀	True
+leaf	🍃	True
+rockmelon	🍈	True
+search icon	🔎	True
+explosion	🎆	True
+black princess	👸🏿	True
+sassy	💁	True
+control	🛂	True
+black square button	🔲	True
+large orange diamond	🔶	True
+joy	😂	True
+automated teller machine	🏧	True
+candy	🍭	True
+face with open mouth	😮	True
+spring	🌷	True
+baseball	⚾️	True
+diamond	💎	True
+sign	♎	True
+down	👎	True
+emergency room	🏥	True
+spectacles	👓	True
+blow a kiss	😘	True
+romance	🏩	True
+flag for british virgin islands	🇻🇬	True
+plus	💯	True
+wink	😜	True
+unhappy	😒	True
+motorboat	🚤	True
+wheel of dharma	☸	True
+woman	🐥	True
+love	😘	True
+party	💃	True
+exploding star	🌟	True
+water	🚾	True
+sailor	⚓	True
+mobile phone	📱	True
+astrology	♊	True
+pensive face	😔	True
+leftwards arrow with hook	↩️	True
+pain	😧	True
+carnival	🎠	True
+chelonian	🐢	True
+tasty	👅	True
+guitar	🎸	True
+printed page	📄	True
+greek	♏️	True
+large	🐋	True
+nervous	😟	True
+honeybee	🐝	True
+regional indicator symbol letters dk	🇩🇰	True
+orthodox cross	☦	True
+cherry blossom	💮	True
+soft serve	🍦	True
+western	👱	True
+gem stone	💎	True
+groom	🎩	True
+family with boy and girl	👪	True
+blowfish	🐡	True
+school	🎒	True
+green face	🤢	True
+gibbous	🌔	True
+milky way	🌌	True
+family of two women with one girl and one boy	👩‍👩‍👧‍👦	True
+boat	⚓	True
+white heavy tick mark	✅	True
+audio	🎤	True
+amusement	🎡	True
+glyph	💠	True
+cheese	🌜	True
+department store	🏬	True
+smug	😏	True
+honor	💜	True
+black person with folded hands	🙏🏿	True
+musical keyboard	🎹	True
+ship	🚢	True
+entertainment	🎫	True
+nuclear family	👪	True
+bar	🍻	True
+tennis racquet	🎾	True
+buffalo	🐃	True
+motion	🎥	True
+brush	🎨	True
+intense	❤️	True
+ram	♈️	True
+silliness	🚦	False
+wisdom	😓	False
+shooting	😒	False
+kawaii	🌉	False
+black swimmer	🚥	False
+sun	👪	False
+smiling face with open mouth	🚰	False
+keycap digit four	🍔	False
+sunrise	🇳🇴	False
+kissing face	👍	False
+slice of pizza	🌝	False
+right triangle	🍨	False
+regional indicator symbol letters na	😴	False
+red flower	😙	False
+yellow	🎳	False
+stairs	🚵🏼	False
+manga meat	🌝	False
+boiled rice	🇶🇦	False
+hotel	📲	False
+beaver	🙀	False
+shirt	👺	False
+roller coaster	😜	False
+motion	🌴	False
+happy tears cat	🍴	False
+bang	💳	False
+christmas	💨	False
+official	👪	False
+archer	👓	False
+dvd rom	🐞	False
+baby change symbol	💯	False
+couple with heart with two women	🎞	False
+denim	🍸	False
+folklore	🇫🇰	False
+discouraged	♑	False
+black white right pointing backhand index	🏑	False
+anguished face	📡	False
+quarter	🤦	False
+deeper brown thumbs down sign	💒	False
+relieved face	🐫	False
+batman	🍒	False
+hands	🐼	False
+iwazaru	🇧🇲	False
+chinese camel	🎥	False
+regional indicator symbol letters gt	🎂	False
+wild west	🍕	False
+flag for antarctica	🐾	False
+regional indicator symbol letters uz	💫	False
+deeper brown open hands sign	🍔	False
+indian flag	⏹	False
+input symbol for symbols	🇰🇾	False
+regional indicator symbol letters ao	🔐	False
+smiling sun	🕸	False
+squared free	👅	False
+nicotine	🇸🇷	False
+troll	💔	False
+wedding	🏷	False
+regional indicator symbol letters sr	🇵🇬	False
+flag for curaçao	🙀	False
+flag for eritrea	🐽	False
+travel	💸	False
+dejected	👹	False
+easter island	🛵	False
+kermit	♥️	False
+wallet	🇭🇹	False
+black question mark ornament	🤵	False
+clap	🇼🇸	False
+christmas tree	🇸🇸	False
+granny	ℹ️	False
+romance	💩	False
+rhinoceros	😉	False
+marshallese flag	👤	False
+cake with candles	🎑	False
+teddy bear	🇮🇱	False
+strong	🐽	False
+squeans	🎩	False
+regional indicator symbol letters sz	🍇	False
+medal	🎗	False
+shaking hands	😵	False
+meow	🎞	False
+think	🌚	False
+purchase	🌡	False
+regional indicator symbol letters ga	🚼	False
+flag for chad	🏨	False
+flag for chad	🎄	False
+pain	💷	False
+flag for antarctica	😟	False
+dominican flag	🚚	False
+north west arrow	🏃🏿	False
+surfer	💽	False
+softball	〽️	False
+cheeks	🍢	False
+speaking head in silhouette	💴	False
+white white down pointing backhand index	😿	False
+hatching chick	⏩	False
+black person frowning	🎤	False
+granny smith apple	🐾	False
+regional indicator symbol letters ck	🏩	False
+regional indicator symbol letters si	😸	False
+vaccination	🙊	False
+no water	🆗	False
+jesus	🐋	False
+jumbo	👺	False
+symbol input	🎃	False
+grandstand	☃	False
+regional indicator symbol letters cz	🍫	False
+high	🍟	False
+lemon	🎸	False
+milky	🌈	False
+sports	🏉	False
+train platform	🎧	False
+flight	😢	False
+black open hands sign	🍹	False
+belarusian flag	😞	False
+apple watch	♒	False
+microphone	👪	False
+hotdog	🛢	False
+flag for angola	💷	False
+flag for algeria	🌽	False
+vulcan salute	🇰🇲	False
+lunch box	🍫	False
+lace	👩	False
+wednesday	👤	False
+scorpion	💦	False
+burned	🌌	False
+flag for antarctica	♐️	False
+hole	✂️	False
+white girl	💥	False
+bees	🇿🇦	False
+train and mountain	😂	False
+boom	🇬🇾	False
+intense	❄️	False
+acquire	💷	False
+discouraged	🇵🇬	False
+regional indicator symbol letters aw	🍲	False
+disappointed face	🐚	False
+flight	♒	False
+light brown dancer	🚦	False
+performing	🛂	False
+bike	😺	False
+cityscape	🇲🇾	False
+camera with flash	🕛	False
+venezuelan flag	🏆	False
+cancan	🚾	False
+down arrow envelope	🐇	False
+luggage	🇬🇲	False
+camping tent	🙋🏿	False
+idea	💕	False
+oregon	🎣	False
+scary	👝	False
+bathers	🐁	False
+white face with ok gesture	🌽	False
+housecat	🎳	False
+regional indicator symbol letters si	🎺	False
+swim	🚘	False
+ballonfish	🖨	False
+gay men	👀	False
+olive toned face massage	♓	False
+cat	👤	False
+hops	♋️	False
+last quarter moon symbol	👚	False
+aries	🙀	False
+mad face	👼	False
+menorah with nine branches	🇧🇦	False
+regional indicator symbol letters fr	🕐	False
+phew	♊	False
+flag for morocco	🎃	False
+face with hat	🇱🇧	False
+mute volume	🌕	False
+flag for burkina faso	🎅	False
+alien	🚵	False
+flag for togo	🍺	False
+rocket	😸	False
+rolodex	🐎	False
+double curly loop	🎏	False
+cock	🚋	False
+flag for albania	💘	False
+game	🍝	False
+thumbs down	💌	False
+boutique 109	📅	False
+white sun with small cloud	🐅	False
+regional indicator symbol letters tz	🔒	False
+tramway	💜	False
+golf flag	🍊	False
+flag for moldova	🤗	False
+racing	😥	False
+power cable	🎵	False
+bermudan flag	💌	False
+heavy plus sign	💆🏿	False
+humpback whale	🚞	False
+halo	👊	False
+regional indicator symbol letters ge	🌗	False
+england	💚	False
+poop	🏬	False
+regional indicator symbol letters kh	⚓	False
+high voltage sign	🏊	False
+regional indicator symbol letters sy	🍍	False
+ano niku	👸	False
+waning gibbous moon symbol	💂🏾	False
+perplex	♊️	False
+flag for sint maarten	🍁	False
+hollywood	🐀	False
+www	🍁	False
+forbid	👯	False
+police siren	🏇	False
+flavor	🍘	False
+tram	🙇🏻	False
+serpent	🎳	False
+police cars revolving light	🌖	False
+label	⛔	False
+hearty	👲	False
+carnival	☀️	False
+face with medical mask	🌊	False
+seaweed	🌋	False
+flu	💜	False
+mounted	📼	False
+popping corn	🌁	False
+mask	🐷	False
+campervan	📦	False
+sad devil	🌚	False
+champagne	🔋	False
+regional indicator symbol letters kp	🎃	False
+regional indicator symbol letters ee	🇳🇷	False
+winky face	♌	False
+quiet	😷	False
+husk	🐁	False
+white haircut	🐓	False
+map pin	🚃	False
+banknote with dollar sign	🎭	False
+black person bowing deeply	🇮🇩	False
+stadium	♎️	False
+women	🏧	False
+firework sparkler	🌸	False
+creme caramel	🍺	False
+goodbye	🎦	False
+regional indicator symbol letter p	😘	False
+scene	♌	False
+ladybug	🏟	False
+deeper brown runner	😢	False
+tennis racquet and ball	🛩	False
+slice of pizza	👯	False
+regional indicator symbol letters bo	🇲🇲	False
+yen	🎢	False
+flag for lithuania	🙌	False
+pack	🏟	False
+clock face one oclock	🎵	False
+black pedestrian	⚽️	False
+yearling	🎪	False
+big top	🍋	False
+pistol	🎼	False
+sweet potato	👂🏿	False
