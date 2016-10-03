@@ -9,6 +9,23 @@ In this repository, we present the code that we used to train
 our representations of emoji, the training data we used to do so,
 and several tools for analyzing the performance of the vectors trained.
 
+## Pre-trained model
+
+If you are interested in using the emoji vectors we used in our paper,
+they can be found in Gensim text/binary format in `./pre-trained/`. These
+vectors correspond with the following hyperparameters:
+
+```
+params = {
+    "out_dim": 300,
+    "pos_ex": 4,
+    "max_epochs": 40,
+    "ratio": 1,
+    "dropout": 0.0,
+    "learning": 0.001
+}
+```
+
 ## Prerequisites
 There are several prerequisites to using the code:
 
