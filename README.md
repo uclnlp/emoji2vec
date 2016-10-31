@@ -34,7 +34,9 @@ Once you've downloaded the pre-trained model, you can easily integrate
 emoji embeddings into your projects like so:
 
 ```
-e2v = gs.Word2Vec.load_word2vec_format('emoji2vec.bin', binary=True)
+import gensim.models as gsm
+
+e2v = gsm.Word2Vec.load_word2vec_format('emoji2vec.bin', binary=True)
 happy_vector = e2v['😂']    # Produces an embedding vector of length 300
 ```
 
