@@ -12,8 +12,11 @@ and several tools for analyzing the performance of the vectors trained.
 ## Pre-trained model
 
 If you are interested in using the emoji vectors we used in our paper,
-they can be found in Gensim text/binary format in `./pre-trained/`. These
-vectors correspond with the following hyperparameters:
+they can be found in Gensim text/binary format in `./pre-trained/`. The
+pre-trained vectors are meant to be used in conjunction with `word2vec`,
+and are therefore 300-dimensional. Other dimensions can be trained 
+manually, as explained below. These vectors correspond with the following 
+hyperparameters:
 
 ```
 params = {
@@ -24,6 +27,15 @@ params = {
     "dropout": 0.0,
     "learning": 0.001
 }
+```
+
+### Basic Usage
+Once you've downloaded the pre-trained model, you can easily integrate 
+emoji embeddings into your projects like so:
+
+```
+e2v = gs.Word2Vec.load_word2vec_format('emoji2vec.bin', binary=True)
+happy_vector = e2v['😂']    # Produces an embedding vector of length 300
 ```
 
 ## Prerequisites
