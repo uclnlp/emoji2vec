@@ -36,7 +36,7 @@ emoji embeddings into your projects like so:
 ```
 import gensim.models as gsm
 
-e2v = gsm.Word2Vec.load_word2vec_format('emoji2vec.bin', binary=True)
+e2v = gsm.KeyedVectors.load_word2vec_format('emoji2vec.bin', binary=True)
 happy_vector = e2v['😂']    # Produces an embedding vector of length 300
 ```
 
