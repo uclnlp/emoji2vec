@@ -107,7 +107,7 @@ object. Alternatively, you can provide two filenames to do so. Query
 like so:
 
 ```
-vec = phrase2Vec['I am really happy right now! 😄]
+vec = phrase2Vec['I am really happy right now! 😄']
 ```
 
 ## Train
