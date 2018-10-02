@@ -60,7 +60,7 @@ def generate_embeddings(ind2phr, kb, embeddings_file, word2vec_file, word2vec_di
 
 # Read data from a file and inject it into a knowledge base
 def __read_data(filename, base, ind_to_phr, ind_to_emoj, typ):
-    with open(filename, 'r') as f:
+    with open(filename, 'r', encoding="utf8") as f:
         # build the data line by line
         lines = f.readlines()
         for line in lines:
