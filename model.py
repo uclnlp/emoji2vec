@@ -259,7 +259,7 @@ class Emoji2Vec:
             f.write('\n')
         f.close()
 
-        e2v = gs.Word2Vec.load_word2vec_format(txt_path, binary=False)
+        e2v = gs.KeyedVectors.load_word2vec_format(txt_path, binary=False)
         e2v.save_word2vec_format(bin_path, binary=True)
 
         return e2v
