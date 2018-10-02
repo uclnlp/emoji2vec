@@ -125,7 +125,7 @@ class Emoji2Vec:
         self.prob = tf.sigmoid(self.score)
 
         # Calculate the cross-entropy loss
-        self.loss = tf.nn.sigmoid_cross_entropy_with_logits(labels=self.score, logits=self.y)
+        self.loss = tf.nn.sigmoid_cross_entropy_with_logits(logits=self.score, labels=self.y)
 
     # train the model using the appropriate parameters
     def train(self, kb, hooks, session):
