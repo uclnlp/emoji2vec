@@ -250,7 +250,7 @@ class Emoji2Vec:
         vecs = sess.run(self.V)
         txt_path = model_folder + '/emoji2vec.txt'
         bin_path = model_folder + '/emoji2vec.bin'
-        f = open(txt_path, 'w')
+        f = open(txt_path, 'w', encoding="utf8)
         f.write('%d %d\n' % (len(vecs), out_dim))
         for i in range(len(vecs)):
             f.write(ind2emoj[i] + ' ')
