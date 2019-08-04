@@ -207,5 +207,5 @@ implements two rudimentary classifiers.
 
 ## Contact
 
-Contact me at `beisner \[at\] princeton.edu` with questions about 
+Contact me at `ben [dot] a [dot] eisner [at] gmail [dot] com` with questions about 
 implementation or requests.
