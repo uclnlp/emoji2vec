@@ -28,6 +28,7 @@ def __visualize():
     # load emoji vectors from the session
     with tf.Session() as session:
         saver = tf.train.Saver()
+        session.run(tf.global_variables_initializer())
         saver.restore(session, args.model_params.model_folder(args.dataset) + '/model.ckpt')
 
         V = session.run(model.V)
