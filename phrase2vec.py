@@ -47,9 +47,9 @@ class Phrase2Vec:
             print(str.format('{} not found. Either provide a different path, or download binary from '
                              'https://code.google.com/archive/p/word2vec/ and unzip', w2v_path))
 
-        w2v = gs.Word2Vec.load_word2vec_format(w2v_path, binary=True)
+        w2v = gs.KeyedVectors.load_word2vec_format(w2v_path, binary=True)
         if e2v_path is not None:
-            e2v = gs.Word2Vec.load_word2vec_format(e2v_path, binary=True)
+            e2v = gs.KeyedVectors.load_word2vec_format(e2v_path, binary=True)
         else:
             e2v = dict()
         return cls(dim, w2v, e2v)
@@ -73,6 +73,17 @@ class Phrase2Vec:
                 phr_sum += self.emojiVecModel[token]
 
         return phr_sum
+
+    def get_vecs(self, phrase):
+        tokens = phrase.split(' ')
+        vecs = []
+
+        for token in tokens:
+            if token in self.wordVecModel:
+                vecs.append(self.wordVecModel[token])
+            elif token in self.emojiVecModel:
+                vecs.append(self.emojiVecModel[token])
+        return vecs
 
     def from_emoji(self, emoji_vec, top_n=10):
         """Get the top n closest tokens for a supplied emoji vector
