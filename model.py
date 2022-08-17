@@ -119,13 +119,13 @@ class Emoji2Vec:
         v_col = tf.nn.dropout(v_col, (1 - model_params.dropout))
 
         # Calculate the predicted score, a.k.a. dot product (here)
-        self.score = tf.reduce_sum(tf.mul(v_row, v_col), 1)
+        self.score = tf.reduce_sum(tf.multiply(v_row, v_col), 1)
 
         # Probability of match
         self.prob = tf.sigmoid(self.score)
 
         # Calculate the cross-entropy loss
-        self.loss = tf.nn.sigmoid_cross_entropy_with_logits(self.score, self.y)
+        self.loss = tf.nn.sigmoid_cross_entropy_with_logits(logits=self.score, labels=self.y)
 
     # train the model using the appropriate parameters
     def train(self, kb, hooks, session):
