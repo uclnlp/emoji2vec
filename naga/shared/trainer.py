@@ -20,7 +20,7 @@ class Trainer(object):
             session = tf.Session()
             close_session_after_training = True  # no session existed before, we provide a temporary session
 
-        init = tf.initialize_all_variables()
+        init = tf.global_variables_initializer()
         session.run(init)
         epoch = 1
         iteration = 1
